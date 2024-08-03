@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+323073,GG.PIC.COM.WALK,Walk the Line to Win,2006-01-11,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+323073,GG.PIC.COM.WALK,Walk the Line to Win,2006-01-12,77.0,77.0,77.0,77.0,10,10,77.0,77.0
+323073,GG.PIC.COM.WALK,Walk the Line to Win,2006-01-13,73.0,78.0,73.0,73.0,11,11,78.0,73.0
+323073,GG.PIC.COM.WALK,Walk the Line to Win,2006-01-14,0.0,0.0,0.0,73.0,11,0,78.0,73.0
+323073,GG.PIC.COM.WALK,Walk the Line to Win,2006-01-15,75.0,80.0,75.0,75.0,19,10,80.0,73.0
+323073,GG.PIC.COM.WALK,Walk the Line to Win,2006-01-16,78.0,92.0,73.0,77.0,29,20,92.0,73.0

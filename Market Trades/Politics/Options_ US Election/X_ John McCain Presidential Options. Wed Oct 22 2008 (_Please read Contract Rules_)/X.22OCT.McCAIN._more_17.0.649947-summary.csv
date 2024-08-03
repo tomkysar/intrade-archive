@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+649947,X.22OCT.McCAIN.>17.0,2008.PRES.McCAIN to be HIGHER than 17.0 on Wed 22 Oct 2008 (VWAP 9:00am-12:00pm ET),2008-10-15,30.0,47.0,25.0,0.0,3,3,47.0,25.0
+649947,X.22OCT.McCAIN.>17.0,2008.PRES.McCAIN to be HIGHER than 17.0 on Wed 22 Oct 2008 (VWAP 9:00am-12:00pm ET),2008-10-16,0.0,0.0,0.0,0.0,3,0,47.0,25.0
+649947,X.22OCT.McCAIN.>17.0,2008.PRES.McCAIN to be HIGHER than 17.0 on Wed 22 Oct 2008 (VWAP 9:00am-12:00pm ET),2008-10-17,46.0,47.0,46.0,0.0,22,19,47.0,25.0
+649947,X.22OCT.McCAIN.>17.0,2008.PRES.McCAIN to be HIGHER than 17.0 on Wed 22 Oct 2008 (VWAP 9:00am-12:00pm ET),2008-10-18,0.0,0.0,0.0,0.0,22,0,47.0,25.0
+649947,X.22OCT.McCAIN.>17.0,2008.PRES.McCAIN to be HIGHER than 17.0 on Wed 22 Oct 2008 (VWAP 9:00am-12:00pm ET),2008-10-19,0.0,0.0,0.0,0.0,22,0,47.0,25.0
+649947,X.22OCT.McCAIN.>17.0,2008.PRES.McCAIN to be HIGHER than 17.0 on Wed 22 Oct 2008 (VWAP 9:00am-12:00pm ET),2008-10-20,0.0,0.0,0.0,0.0,22,0,47.0,25.0
+649947,X.22OCT.McCAIN.>17.0,2008.PRES.McCAIN to be HIGHER than 17.0 on Wed 22 Oct 2008 (VWAP 9:00am-12:00pm ET),2008-10-21,12.0,12.0,6.0,0.0,24,4,47.0,6.0

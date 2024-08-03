@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+261050,DENNIS.CAT3.NOIMPACT,Hurricane Dennis to NOT make landfall in any Named State,2005-07-08,5.0,10.0,1.0,5.0,225,230,10.0,1.0
+261050,DENNIS.CAT3.NOIMPACT,Hurricane Dennis to NOT make landfall in any Named State,2005-07-09,6.0,6.0,1.0,0.0,0,94,44.0,1.0
+261050,DENNIS.CAT3.NOIMPACT,Hurricane Dennis to NOT make landfall in any Named State,2005-07-09,10.0,44.0,1.2,40.0,468,477,44.0,1.0

@@ -1,0 +1,10 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-05,,,,,0,0,,
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-06,,,,,0,0,,
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-07,60.0,61.0,32.5,50.0,384,440,61.0,32.5
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-08,48.0,70.0,45.2,56.3,2744,3612,70.0,32.5
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-09,59.8,62.5,26.0,36.0,4155,2661,70.0,26.0
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-10,36.0,41.7,30.3,40.0,4621,676,70.0,26.0
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-11,35.2,39.9,30.0,30.0,4730,391,70.0,26.0
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-12,32.5,33.0,12.5,17.6,4083,2933,70.0,12.5
+758322,ALABAMA.SANTORUM,Rick Santorum to win the 2012 Alabama Primary,2012-03-13,17.6,99.9,15.4,99.8,5622,11492,99.9,12.5

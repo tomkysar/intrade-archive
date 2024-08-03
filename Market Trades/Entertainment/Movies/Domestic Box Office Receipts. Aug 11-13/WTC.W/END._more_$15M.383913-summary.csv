@@ -1,0 +1,6 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+383913,WTC.W/END.>$15M,World Trade Center to gross OVER $15M in opening w/end,2006-08-10,85.0,94.0,70.0,0.0,53,58,94.0,70.0
+383913,WTC.W/END.>$15M,World Trade Center to gross OVER $15M in opening w/end,2006-08-11,72.0,91.0,72.0,0.0,91,39,94.0,70.0
+383913,WTC.W/END.>$15M,World Trade Center to gross OVER $15M in opening w/end,2006-08-12,90.0,94.2,90.0,0.0,93,51,94.2,70.0
+383913,WTC.W/END.>$15M,World Trade Center to gross OVER $15M in opening w/end,2006-08-13,99.0,99.0,99.0,99.0,91,8,99.0,70.0
+383913,WTC.W/END.>$15M,World Trade Center to gross OVER $15M in opening w/end,2006-08-14,0.0,0.0,0.0,99.9,91,0,99.0,70.0

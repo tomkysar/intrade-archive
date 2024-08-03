@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+574867,DEM.NY.OBAMA,Barack Obama to Win,2008-01-30,12.1,12.1,12.1,15.0,1,1,12.1,12.1
+574867,DEM.NY.OBAMA,Barack Obama to Win,2008-01-31,10.0,12.1,10.0,10.0,25,24,12.1,10.0
+574867,DEM.NY.OBAMA,Barack Obama to Win,2008-02-01,0.0,0.0,0.0,2.1,25,0,12.1,10.0
+574867,DEM.NY.OBAMA,Barack Obama to Win,2008-02-02,0.0,0.0,0.0,2.1,25,0,12.1,10.0
+574867,DEM.NY.OBAMA,Barack Obama to Win,2008-02-03,0.0,0.0,0.0,11.0,25,0,12.1,10.0
+574867,DEM.NY.OBAMA,Barack Obama to Win,2008-02-04,10.0,10.0,10.0,10.0,28,4,12.1,10.0

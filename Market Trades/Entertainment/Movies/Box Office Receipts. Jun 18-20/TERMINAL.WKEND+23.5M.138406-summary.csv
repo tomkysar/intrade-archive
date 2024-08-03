@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+138406,TERMINAL.WKEND+23.5M,The Terminal to gross OVER $23.5M in opening weekend,2004-06-18,55.0,62.0,55.0,50.0,5,10,62.0,55.0
+138406,TERMINAL.WKEND+23.5M,The Terminal to gross OVER $23.5M in opening weekend,2004-06-19,0.0,0.0,0.0,50.0,5,0,62.0,55.0
+138406,TERMINAL.WKEND+23.5M,The Terminal to gross OVER $23.5M in opening weekend,2004-06-20,0.0,0.0,0.0,50.0,5,0,62.0,55.0
+138406,TERMINAL.WKEND+23.5M,The Terminal to gross OVER $23.5M in opening weekend,2004-06-21,0.0,0.0,0.0,6.0,5,0,62.0,55.0

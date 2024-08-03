@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-15,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-16,60.0,60.0,60.0,60.0,2,2,60.0,60.0
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-17,0.0,0.0,0.0,60.0,2,0,60.0,60.0
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-18,42.5,42.5,42.5,42.5,3,1,60.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-19,42.6,42.6,42.6,42.6,4,1,60.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-20,0.0,0.0,0.0,42.6,4,0,60.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-21,42.5,42.5,42.5,42.5,6,2,60.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-22,50.0,69.5,50.0,69.5,8,3,69.5,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-23,70.0,70.0,70.0,70.0,9,1,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-24,50.0,50.0,50.0,50.0,11,4,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-25,60.0,60.0,52.4,52.4,15,4,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-26,0.0,0.0,0.0,52.4,15,0,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-27,60.0,60.0,60.0,60.0,25,10,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-28,52.5,52.5,52.5,52.5,26,1,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-02-29,55.0,55.0,50.0,50.0,57,31,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-03-01,62.0,62.0,50.0,50.0,62,10,70.0,42.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-03-02,40.0,42.0,12.5,42.0,71,16,70.0,12.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-03-03,22.5,30.0,16.5,18.0,73,18,70.0,12.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-03-04,16.5,18.0,12.5,12.5,98,45,70.0,12.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-03-05,12.5,17.0,12.5,16.0,348,254,70.0,12.5
+757537,NTH.DAKOTA.SANTORUM,Rick Santorum to win the 2012 North Dakota Caucus,2012-03-06,17.0,99.8,10.0,99.8,812,1362,99.8,10.0

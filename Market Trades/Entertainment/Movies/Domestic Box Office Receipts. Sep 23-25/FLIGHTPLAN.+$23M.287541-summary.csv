@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+287541,FLIGHTPLAN.+$23M,Flightplan to gross OVER $23.0M in opening weekend,2005-09-23,38.0,78.0,25.0,30.0,148,176,78.0,25.0
+287541,FLIGHTPLAN.+$23M,Flightplan to gross OVER $23.0M in opening weekend,2005-09-24,90.0,94.0,80.0,80.0,206,105,94.0,25.0
+287541,FLIGHTPLAN.+$23M,Flightplan to gross OVER $23.0M in opening weekend,2005-09-25,95.0,99.9,95.0,96.0,357,157,99.9,25.0
+287541,FLIGHTPLAN.+$23M,Flightplan to gross OVER $23.0M in opening weekend,2005-09-26,98.0,99.9,98.0,96.0,351,6,99.9,25.0

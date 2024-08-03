@@ -1,0 +1,6 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+758231,ROMNEY.VIRGINIA.15%+,Mitt Romney to win the Virginia primary by 15 percentage points or more,2012-03-02,89.9,89.9,89.9,89.9,50,50,89.9,89.9
+758231,ROMNEY.VIRGINIA.15%+,Mitt Romney to win the Virginia primary by 15 percentage points or more,2012-03-03,90.0,90.0,90.0,90.0,51,1,90.0,89.9
+758231,ROMNEY.VIRGINIA.15%+,Mitt Romney to win the Virginia primary by 15 percentage points or more,2012-03-04,90.0,93.1,90.0,93.1,117,66,93.1,89.9
+758231,ROMNEY.VIRGINIA.15%+,Mitt Romney to win the Virginia primary by 15 percentage points or more,2012-03-05,,,,93.1,117,0,93.1,89.9
+758231,ROMNEY.VIRGINIA.15%+,Mitt Romney to win the Virginia primary by 15 percentage points or more,2012-03-06,90.1,99.9,75.0,99.9,247,504,99.9,75.0

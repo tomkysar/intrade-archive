@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+226548,BEAUTYSHOP.WKND.+$17M,Beauty Shop to gross OVER $17.0M in opening weekend,2005-04-01,40.0,42.0,20.0,35.0,27,37,42.0,20.0
+226548,BEAUTYSHOP.WKND.+$17M,Beauty Shop to gross OVER $17.0M in opening weekend,2005-04-02,45.0,45.0,1.5,30.0,42,44,45.0,1.5
+226548,BEAUTYSHOP.WKND.+$17M,Beauty Shop to gross OVER $17.0M in opening weekend,2005-04-03,4.5,4.5,4.4,30.0,52,30,45.0,1.5
+226548,BEAUTYSHOP.WKND.+$17M,Beauty Shop to gross OVER $17.0M in opening weekend,2005-04-04,0.0,0.0,0.0,0.0,52,0,45.0,1.5

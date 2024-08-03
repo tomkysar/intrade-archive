@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-11,60.0,60.0,30.0,0.0,18,18,60.0,30.0
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-12,7.0,10.0,4.0,4.0,98,90,60.0,4.0
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-13,0.3,0.3,0.3,4.0,97,1,60.0,0.3
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-14,0.0,0.0,0.0,1.2,97,0,60.0,0.3
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-15,0.1,0.1,0.1,0.5,87,10,60.0,0.1
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-16,0.1,0.1,0.1,0.1,86,1,60.0,0.1
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-17,0.0,0.0,0.0,0.1,86,0,60.0,0.1
+271893,IRENE.CAT1.NTHCAROLINA,Hurricane Irene to make landfall in North Carolina as Category 1 or Higher,2005-08-18,0.2,0.2,0.2,0.1,86,3,60.0,0.1

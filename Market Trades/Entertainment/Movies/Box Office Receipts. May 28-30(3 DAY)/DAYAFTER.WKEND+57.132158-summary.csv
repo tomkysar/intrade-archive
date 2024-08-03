@@ -1,0 +1,6 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+132158,DAYAFTER.WKEND+57,The Day After Tomorrow to gross OVER $57M in opening weekend,2004-05-27,50.0,50.0,50.0,50.0,10,10,50.0,50.0
+132158,DAYAFTER.WKEND+57,The Day After Tomorrow to gross OVER $57M in opening weekend,2004-05-28,60.0,60.0,50.0,50.0,32,32,60.0,50.0
+132158,DAYAFTER.WKEND+57,The Day After Tomorrow to gross OVER $57M in opening weekend,2004-05-29,70.0,70.0,70.0,70.0,34,2,70.0,50.0
+132158,DAYAFTER.WKEND+57,The Day After Tomorrow to gross OVER $57M in opening weekend,2004-05-30,95.0,95.0,95.0,95.0,34,2,95.0,50.0
+132158,DAYAFTER.WKEND+57,The Day After Tomorrow to gross OVER $57M in opening weekend,2004-05-31,0.0,0.0,0.0,95.0,34,0,95.0,50.0

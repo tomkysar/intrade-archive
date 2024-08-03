@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+301420,SAW2+$24.0M,Saw 2 to gross OVER $24M in opening weekend,2005-10-28,40.0,85.0,40.0,48.0,154,158,85.0,40.0
+301420,SAW2+$24.0M,Saw 2 to gross OVER $24M in opening weekend,2005-10-29,73.0,98.0,73.0,95.0,198,127,98.0,40.0
+301420,SAW2+$24.0M,Saw 2 to gross OVER $24M in opening weekend,2005-10-30,99.0,99.9,99.0,99.9,175,24,99.9,40.0
+301420,SAW2+$24.0M,Saw 2 to gross OVER $24M in opening weekend,2005-10-31,99.9,99.9,99.9,99.9,174,1,99.9,40.0

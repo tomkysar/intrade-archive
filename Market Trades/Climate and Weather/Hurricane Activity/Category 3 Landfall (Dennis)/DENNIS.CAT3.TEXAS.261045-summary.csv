@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+261045,DENNIS.CAT3.TEXAS,Hurricane Dennis to make landfall in Texas as a Category 3 or higher hurricane,2005-07-08,4.9,5.0,3.8,4.9,144,144,5.0,3.8
+261045,DENNIS.CAT3.TEXAS,Hurricane Dennis to make landfall in Texas as a Category 3 or higher hurricane,2005-07-09,0.5,0.5,0.2,0.0,0,14,5.0,0.2
+261045,DENNIS.CAT3.TEXAS,Hurricane Dennis to make landfall in Texas as a Category 3 or higher hurricane,2005-07-09,1.0,1.0,0.4,0.9,188,52,5.0,0.4

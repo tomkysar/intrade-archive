@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-07,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-08,50.0,50.0,50.0,50.0,2,2,50.0,50.0
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-09,50.0,50.0,50.0,50.0,20,18,50.0,50.0
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-10,0.0,0.0,0.0,50.0,20,0,50.0,50.0
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-11,50.0,70.0,50.0,70.0,56,36,70.0,50.0
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-12,17.5,18.0,17.5,18.0,67,12,70.0,17.5
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-13,0.0,0.0,0.0,18.0,67,0,70.0,17.5
+753569,EDGAR.+$16.0M,J. Edgar to gross OVER $16.0M in opening weekend,2011-11-14,0.0,0.0,0.0,18.0,67,0,70.0,17.5

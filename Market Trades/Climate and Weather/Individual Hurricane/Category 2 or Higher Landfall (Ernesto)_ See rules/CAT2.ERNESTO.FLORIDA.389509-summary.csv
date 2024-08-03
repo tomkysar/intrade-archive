@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+389509,CAT2.ERNESTO.FLORIDA,Hurricane Ernesto to make first Landfall as Category 2 or Higher in Florida,2006-08-27,45.0,45.0,40.0,0.0,2,3,45.0,40.0
+389509,CAT2.ERNESTO.FLORIDA,Hurricane Ernesto to make first Landfall as Category 2 or Higher in Florida,2006-08-28,40.0,40.0,6.0,7.0,83,143,45.0,6.0
+389509,CAT2.ERNESTO.FLORIDA,Hurricane Ernesto to make first Landfall as Category 2 or Higher in Florida,2006-08-29,3.5,4.9,0.3,2.0,85,67,45.0,0.3

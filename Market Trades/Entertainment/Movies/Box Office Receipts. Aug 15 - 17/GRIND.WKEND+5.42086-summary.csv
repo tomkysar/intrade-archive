@@ -1,0 +1,6 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+42086,GRIND.WKEND+5,Grind to gross over $5 million in opening weekend,2003-08-14,0.0,0.0,0.0,50.0,0,0,0.0,0.0
+42086,GRIND.WKEND+5,Grind to gross over $5 million in opening weekend,2003-08-15,45.0,45.0,41.0,41.0,21,21,45.0,41.0
+42086,GRIND.WKEND+5,Grind to gross over $5 million in opening weekend,2003-08-16,45.0,45.0,45.0,45.0,22,1,45.0,41.0
+42086,GRIND.WKEND+5,Grind to gross over $5 million in opening weekend,2003-08-17,7.0,7.0,7.0,7.0,122,100,45.0,7.0
+42086,GRIND.WKEND+5,Grind to gross over $5 million in opening weekend,2003-08-18,0.0,0.0,0.0,5.0,122,0,45.0,7.0

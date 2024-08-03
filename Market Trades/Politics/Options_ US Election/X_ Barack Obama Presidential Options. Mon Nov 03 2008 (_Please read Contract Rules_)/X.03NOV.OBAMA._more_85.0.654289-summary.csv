@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+654289,X.03NOV.OBAMA.>85.0,2008.PRES.OBAMA to be HIGHER than 85.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-10-30,50.0,64.0,50.0,0.0,22,22,64.0,50.0
+654289,X.03NOV.OBAMA.>85.0,2008.PRES.OBAMA to be HIGHER than 85.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-10-31,60.0,69.0,60.0,61.0,30,8,69.0,50.0
+654289,X.03NOV.OBAMA.>85.0,2008.PRES.OBAMA to be HIGHER than 85.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-11-01,64.0,64.0,64.0,64.0,31,1,69.0,50.0
+654289,X.03NOV.OBAMA.>85.0,2008.PRES.OBAMA to be HIGHER than 85.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-11-02,0.0,0.0,0.0,64.0,31,0,69.0,50.0

@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+70571,SAMURAI.WKEND+29M,The Last Samurai to gross OVER $29M in opening weekend,2003-12-05,35.0,35.0,35.0,60.0,2,2,35.0,35.0
+70571,SAMURAI.WKEND+29M,The Last Samurai to gross OVER $29M in opening weekend,2003-12-06,5.0,6.0,5.0,29.0,60,60,35.0,5.0
+70571,SAMURAI.WKEND+29M,The Last Samurai to gross OVER $29M in opening weekend,2003-12-07,3.0,3.0,2.0,29.0,65,7,35.0,2.0
+70571,SAMURAI.WKEND+29M,The Last Samurai to gross OVER $29M in opening weekend,2003-12-08,0.0,0.0,0.0,29.0,65,0,35.0,2.0

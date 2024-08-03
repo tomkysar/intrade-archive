@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-23,63.0,65.0,63.0,63.0,30,30,65.0,63.0
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-24,65.0,66.0,65.0,65.0,80,50,66.0,63.0
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-25,,,,65.0,80,0,66.0,63.0
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-26,,,,65.0,80,0,66.0,63.0
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-27,95.0,95.0,52.5,52.5,70,15,95.0,52.5
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-28,67.0,70.0,67.0,70.0,60,10,95.0,52.5
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-29,99.0,99.0,99.0,99.0,40,20,99.0,52.5
+760407,SAFE.+$7.0M,Safe to gross OVER $7.0M in opening weekend,2012-04-30,,,,99.0,40,0,99.0,52.5

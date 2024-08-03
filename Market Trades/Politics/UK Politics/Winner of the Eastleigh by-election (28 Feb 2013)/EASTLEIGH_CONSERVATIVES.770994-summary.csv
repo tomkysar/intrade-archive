@@ -1,0 +1,19 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-14,33.0,33.0,33.0,33.0,20,20,33.0,33.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-15,37.3,37.3,30.0,30.0,41,21,37.3,30.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-16,20.0,21.0,20.0,20.0,50,9,37.3,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-17,35.0,35.0,34.5,34.5,50,2,37.3,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-18,35.0,35.0,32.9,35.0,50,23,37.3,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-19,35.0,39.0,32.7,38.9,66,21,39.0,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-20,,,,38.9,66,0,39.0,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-21,20.3,20.3,20.0,20.0,128,62,39.0,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-22,20.0,20.0,20.0,20.0,128,4,39.0,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-23,,,,20.0,128,0,39.0,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-24,27.9,27.9,27.9,27.9,130,2,39.0,20.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-25,20.2,20.2,10.0,10.0,145,17,39.0,10.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-26,,,,10.0,145,0,39.0,10.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-27,,,,10.0,145,0,39.0,10.0
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-02-28,20.2,20.2,0.1,1.0,160,57,39.0,0.1
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-03-01,,,,1.0,160,0,39.0,0.1
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-03-02,,,,1.0,160,0,39.0,0.1
+770994,EASTLEIGH:CONSERVATIVES,Conservative candidate to win the Eastleigh by-election,2013-03-03,0.2,0.2,0.2,0.2,160,10,39.0,0.1

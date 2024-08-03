@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+767105,FUN.+$3.0M,Fun Size to gross OVER $3.0M in opening weekend,2012-10-26,50.0,90.0,50.0,90.0,20,123,90.0,50.0
+767105,FUN.+$3.0M,Fun Size to gross OVER $3.0M in opening weekend,2012-10-27,90.0,90.0,90.0,90.0,20,20,90.0,50.0
+767105,FUN.+$3.0M,Fun Size to gross OVER $3.0M in opening weekend,2012-10-28,,,,90.0,20,0,90.0,50.0

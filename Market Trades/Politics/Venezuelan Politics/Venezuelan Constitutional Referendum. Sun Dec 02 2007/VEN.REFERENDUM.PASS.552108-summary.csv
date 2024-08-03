@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+552108,VEN.REFERENDUM.PASS,Venezuelan Constitutional Referendum to Pass,2007-11-29,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+552108,VEN.REFERENDUM.PASS,Venezuelan Constitutional Referendum to Pass,2007-11-30,0.0,0.0,0.0,60.0,0,0,0.0,0.0
+552108,VEN.REFERENDUM.PASS,Venezuelan Constitutional Referendum to Pass,2007-12-01,60.0,60.0,60.0,60.0,1,1,60.0,60.0
+552108,VEN.REFERENDUM.PASS,Venezuelan Constitutional Referendum to Pass,2007-12-02,0.0,0.0,0.0,60.0,1,0,60.0,60.0

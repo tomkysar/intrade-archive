@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+758643,JOHN.CARTER.+$30.0M,John Carter to gross OVER $30.0M in opening weekend,2012-03-08,,,,,0,0,,
+758643,JOHN.CARTER.+$30.0M,John Carter to gross OVER $30.0M in opening weekend,2012-03-09,55.5,60.0,50.0,60.0,15,15,60.0,50.0
+758643,JOHN.CARTER.+$30.0M,John Carter to gross OVER $30.0M in opening weekend,2012-03-10,42.5,69.5,42.5,65.0,15,13,69.5,42.5
+758643,JOHN.CARTER.+$30.0M,John Carter to gross OVER $30.0M in opening weekend,2012-03-11,55.0,87.5,55.0,87.5,20,11,87.5,42.5

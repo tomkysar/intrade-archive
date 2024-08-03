@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+258765,REBOUND.+$7.0M,Rebound to gross OVER $7.0M in opening weekend,2005-07-01,88.0,88.0,45.6,0.0,95,118,88.0,45.6
+258765,REBOUND.+$7.0M,Rebound to gross OVER $7.0M in opening weekend,2005-07-02,35.0,35.0,10.0,0.0,256,279,88.0,10.0
+258765,REBOUND.+$7.0M,Rebound to gross OVER $7.0M in opening weekend,2005-07-03,0.0,0.0,0.0,0.0,256,0,88.0,10.0
+258765,REBOUND.+$7.0M,Rebound to gross OVER $7.0M in opening weekend,2005-07-04,0.0,0.0,0.0,0.0,256,0,88.0,10.0

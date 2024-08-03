@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+64749,G3.KASvFRTZ.KASPAROV,Garry Kasparov to win Game 3,2003-11-13,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+64749,G3.KASvFRTZ.KASPAROV,Garry Kasparov to win Game 3,2003-11-14,29.0,29.0,24.0,26.0,2,3,29.0,24.0
+64749,G3.KASvFRTZ.KASPAROV,Garry Kasparov to win Game 3,2003-11-15,0.0,0.0,0.0,27.0,2,0,29.0,24.0
+64749,G3.KASvFRTZ.KASPAROV,Garry Kasparov to win Game 3,2003-11-15,0.0,0.0,0.0,0.0,0,0,29.0,24.0

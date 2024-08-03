@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-11,36.0,38.0,36.0,38.0,3,137,38.0,36.0
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-12,0.0,0.0,0.0,25.0,3,0,38.0,36.0
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-13,0.0,0.0,0.0,0.0,3,0,38.0,36.0
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-14,15.0,15.0,15.0,15.0,10,10,38.0,15.0
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-15,0.0,0.0,0.0,15.0,10,0,38.0,15.0
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-16,20.0,20.0,20.0,15.0,11,1,38.0,15.0
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-17,20.0,20.0,20.0,15.0,12,1,38.0,15.0
+63933,KASPvFRIZ.KASPAROV,Garry Kasparov to Win,2003-11-18,0.0,0.0,0.0,0.0,12,0,38.0,15.0

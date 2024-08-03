@@ -1,0 +1,18 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-18,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-19,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-20,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-21,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-22,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-23,25.0,25.0,25.0,25.0,15,15,25.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-24,0.0,0.0,0.0,25.0,15,0,25.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-25,29.9,30.0,29.9,30.0,46,31,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-26,29.8,29.8,29.8,29.8,46,1,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-27,0.0,0.0,0.0,29.8,46,0,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-02-28,0.0,0.0,0.0,29.8,46,0,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-03-01,29.8,29.8,29.8,29.8,48,2,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-03-02,0.0,0.0,0.0,29.8,48,0,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-03-03,29.8,29.8,29.8,29.8,50,2,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-03-04,28.8,28.8,28.8,28.8,55,5,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-03-05,29.8,29.8,29.8,29.8,60,5,30.0,25.0
+712905,FOR.LANG:PROPHET,A Prophet (Un Prophete) to win the Oscar,2010-03-06,29.8,29.8,29.8,29.8,62,2,30.0,25.0

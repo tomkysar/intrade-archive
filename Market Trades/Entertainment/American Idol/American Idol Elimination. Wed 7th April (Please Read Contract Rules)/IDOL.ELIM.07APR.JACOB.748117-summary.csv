@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+748117,IDOL.ELIM.07APR.JACOB,Jacob Lusk to be eliminated from American Idol on 7th April,2011-04-01,19.0,23.0,19.0,23.0,2,3,23.0,19.0
+748117,IDOL.ELIM.07APR.JACOB,Jacob Lusk to be eliminated from American Idol on 7th April,2011-04-02,20.0,20.0,20.0,20.0,2,1,23.0,19.0
+748117,IDOL.ELIM.07APR.JACOB,Jacob Lusk to be eliminated from American Idol on 7th April,2011-04-03,0.0,0.0,0.0,20.0,2,0,23.0,19.0
+748117,IDOL.ELIM.07APR.JACOB,Jacob Lusk to be eliminated from American Idol on 7th April,2011-04-04,7.5,7.5,7.5,7.5,22,20,23.0,7.5
+748117,IDOL.ELIM.07APR.JACOB,Jacob Lusk to be eliminated from American Idol on 7th April,2011-04-05,10.0,10.0,10.0,10.0,32,10,23.0,7.5
+748117,IDOL.ELIM.07APR.JACOB,Jacob Lusk to be eliminated from American Idol on 7th April,2011-04-06,0.0,0.0,0.0,10.0,32,0,23.0,7.5
+748117,IDOL.ELIM.07APR.JACOB,Jacob Lusk to be eliminated from American Idol on 7th April,2011-04-07,24.0,28.0,20.0,28.0,75,105,28.0,7.5

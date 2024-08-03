@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+226543,SINCITY.WKND.+$25M,Sin City to gross OVER $25.0M in opening weekend,2005-04-01,50.0,90.0,50.0,70.0,210,219,90.0,50.0
+226543,SINCITY.WKND.+$25M,Sin City to gross OVER $25.0M in opening weekend,2005-04-02,75.0,99.0,65.0,85.0,374,286,99.0,50.0
+226543,SINCITY.WKND.+$25M,Sin City to gross OVER $25.0M in opening weekend,2005-04-03,91.0,99.8,91.0,97.0,373,72,99.8,50.0
+226543,SINCITY.WKND.+$25M,Sin City to gross OVER $25.0M in opening weekend,2005-04-04,99.0,99.9,99.0,0.0,331,45,99.9,50.0

@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-19,,,,,0,0,,
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-20,,,,,0,0,,
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-21,50.0,50.0,50.0,50.0,20,20,50.0,50.0
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-22,49.0,49.0,49.0,49.0,21,1,50.0,49.0
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-23,,,,49.0,21,0,50.0,49.0
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-24,40.0,40.0,40.0,40.0,41,20,50.0,40.0
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-25,40.0,40.5,35.0,40.0,81,40,50.0,35.0
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-26,39.0,39.0,2.5,2.5,91,69,50.0,2.5
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-27,1.0,1.0,0.2,0.2,91,11,50.0,0.2
+766843,ATLAS.+$15.0M,Cloud Atlas to gross OVER $15.0M in opening weekend,2012-10-28,,,,0.2,91,0,50.0,0.2

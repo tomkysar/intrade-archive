@@ -1,0 +1,10 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-13,10.1,29.9,10.1,10.1,122,122,29.9,10.1
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-14,29.0,40.0,28.9,20.0,228,107,40.0,10.1
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-15,38.0,48.0,25.1,48.0,247,156,48.0,10.1
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-16,25.2,29.0,23.0,25.2,264,86,48.0,10.1
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-17,15.1,24.4,11.0,13.9,273,194,48.0,10.1
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-18,10.5,24.1,10.0,24.1,280,231,48.0,10.0
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-19,11.6,11.9,0.5,3.8,286,234,48.0,0.5
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-20,0.5,1.0,0.5,0.5,306,30,48.0,0.5
+262275,EMILY.CAT2.TEXAS,Hurricane Emily to first make Landfall in Texas,2005-07-21,0.4,0.4,0.4,0.5,305,1,48.0,0.4

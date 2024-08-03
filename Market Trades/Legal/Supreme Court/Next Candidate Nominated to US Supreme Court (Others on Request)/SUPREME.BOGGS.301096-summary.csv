@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+301096,SUPREME.BOGGS,Danny Boggs to be Next Nominee to the Supreme Court,2005-10-27,3.0,5.0,0.1,0.0,128,129,5.0,0.1
+301096,SUPREME.BOGGS,Danny Boggs to be Next Nominee to the Supreme Court,2005-10-28,3.4,3.4,2.0,2.3,204,76,5.0,0.1
+301096,SUPREME.BOGGS,Danny Boggs to be Next Nominee to the Supreme Court,2005-10-29,2.4,2.6,0.5,2.4,224,22,5.0,0.1
+301096,SUPREME.BOGGS,Danny Boggs to be Next Nominee to the Supreme Court,2005-10-30,0.8,0.8,0.8,2.4,226,2,5.0,0.1

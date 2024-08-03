@@ -1,0 +1,15 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-04,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-05,0.0,0.0,0.0,50.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-06,0.0,0.0,0.0,50.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-07,0.0,0.0,0.0,1.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-08,0.0,0.0,0.0,2.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-09,0.0,0.0,0.0,2.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-10,0.0,0.0,0.0,2.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-11,0.0,0.0,0.0,2.0,0,0,0.0,0.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-12,3.0,8.0,3.0,2.0,90,90,8.0,3.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-13,4.2,4.2,4.2,5.0,90,1,8.0,3.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-14,4.9,4.9,4.9,5.0,90,20,8.0,3.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-15,3.0,3.0,3.0,5.0,109,100,8.0,3.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-16,0.0,0.0,0.0,0.0,0,0,8.0,3.0
+90496,DEM.EDWARDS.WI,John Edwards to win the Wisconsin Primary,2004-02-16,0.0,0.0,0.0,5.0,109,0,8.0,3.0

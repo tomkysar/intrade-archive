@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+246619,UNIVERSE.USA,Miss USA to Win Miss Universe,2005-05-24,0.0,0.0,0.0,4.0,0,0,0.0,0.0
+246619,UNIVERSE.USA,Miss USA to Win Miss Universe,2005-05-25,2.5,2.5,2.5,4.0,1,1,2.5,2.5
+246619,UNIVERSE.USA,Miss USA to Win Miss Universe,2005-05-26,2.5,2.5,2.5,4.0,2,1,2.5,2.5
+246619,UNIVERSE.USA,Miss USA to Win Miss Universe,2005-05-27,0.0,0.0,0.0,4.0,2,0,2.5,2.5
+246619,UNIVERSE.USA,Miss USA to Win Miss Universe,2005-05-28,0.0,0.0,0.0,4.0,2,0,2.5,2.5
+246619,UNIVERSE.USA,Miss USA to Win Miss Universe,2005-05-29,4.3,4.3,4.3,0.0,0,1,4.3,2.5
+246619,UNIVERSE.USA,Miss USA to Win Miss Universe,2005-05-29,0.0,0.0,0.0,4.0,2,0,2.5,2.5

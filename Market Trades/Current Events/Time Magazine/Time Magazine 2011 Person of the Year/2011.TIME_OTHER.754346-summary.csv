@@ -1,0 +1,18 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-11-28,10.0,10.0,10.0,10.0,11,11,10.0,10.0
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-11-29,20.0,20.0,20.0,20.0,11,2,20.0,10.0
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-11-30,0.0,0.0,0.0,20.0,11,0,20.0,10.0
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-01,25.0,25.0,25.0,25.0,13,2,25.0,10.0
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-02,25.0,25.0,25.0,25.0,17,4,25.0,10.0
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-03,17.0,17.0,15.1,15.1,25,8,25.0,10.0
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-04,12.0,15.0,10.0,15.0,55,30,25.0,10.0
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-05,9.0,29.9,8.5,29.9,90,38,29.9,8.5
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-06,12.0,12.0,7.1,7.1,126,36,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-07,0.0,0.0,0.0,7.1,126,0,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-08,8.6,21.9,8.5,21.9,151,25,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-09,0.0,0.0,0.0,21.9,151,0,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-10,0.0,0.0,0.0,21.9,151,0,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-11,0.0,0.0,0.0,21.9,151,0,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-12,21.9,23.0,20.9,23.0,156,7,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-13,19.9,20.9,19.9,20.9,162,6,29.9,7.1
+754346,2011.TIME:OTHER,Anyone else to be named Time Magazine's 2011 Person of the Year,2011-12-14,20.9,98.5,20.9,98.5,183,51,98.5,7.1

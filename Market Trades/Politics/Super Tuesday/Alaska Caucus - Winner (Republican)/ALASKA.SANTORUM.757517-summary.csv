@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-15,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-16,30.1,35.0,30.1,35.0,4,4,35.0,30.1
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-17,49.4,49.5,49.4,49.5,11,7,49.5,30.1
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-18,38.1,49.5,38.1,49.5,16,5,49.5,30.1
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-19,0.0,0.0,0.0,49.5,16,0,49.5,30.1
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-20,0.0,0.0,0.0,49.5,16,0,49.5,30.1
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-21,0.0,0.0,0.0,49.5,16,0,49.5,30.1
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-22,38.1,38.2,36.0,36.0,19,7,49.5,30.1
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-23,30.0,30.0,30.0,30.0,29,10,49.5,30.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-24,35.0,35.0,34.9,34.9,45,16,49.5,30.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-25,34.9,34.9,34.9,34.9,46,1,49.5,30.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-26,35.0,35.0,34.9,35.0,63,17,49.5,30.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-27,30.1,35.0,30.1,35.0,93,38,49.5,30.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-28,34.9,34.9,12.0,12.0,125,46,49.5,12.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-02-29,15.0,26.5,9.9,9.9,188,131,49.5,9.9
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-03-01,19.9,25.0,15.1,15.1,211,50,49.5,9.9
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-03-02,20.0,20.0,10.0,16.0,306,117,49.5,9.9
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-03-03,16.0,16.0,6.0,6.0,326,36,49.5,6.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-03-04,5.0,9.9,4.0,9.9,372,68,49.5,4.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-03-05,9.8,9.8,4.0,6.0,482,116,49.5,4.0
+757517,ALASKA.SANTORUM,Rick Santorum to win the 2012 Alaska Caucus,2012-03-06,2.0,50.0,0.2,0.3,1463,1862,50.0,0.2

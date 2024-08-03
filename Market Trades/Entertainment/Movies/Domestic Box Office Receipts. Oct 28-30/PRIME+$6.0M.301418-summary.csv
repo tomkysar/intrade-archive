@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+301418,PRIME+$6.0M,Prime to gross OVER $6M in opening weekend,2005-10-28,25.0,67.0,15.0,62.9,22,22,67.0,15.0
+301418,PRIME+$6.0M,Prime to gross OVER $6M in opening weekend,2005-10-29,90.0,90.0,56.0,60.0,25,6,90.0,15.0
+301418,PRIME+$6.0M,Prime to gross OVER $6M in opening weekend,2005-10-30,97.5,97.5,97.0,60.0,23,3,97.5,15.0
+301418,PRIME+$6.0M,Prime to gross OVER $6M in opening weekend,2005-10-31,97.5,97.5,97.5,97.5,23,1,97.5,15.0

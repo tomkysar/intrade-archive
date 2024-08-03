@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+333234,FINALDESTINATION3.$20.0M,Final Destination 3 to Gross over $20.0 Million in it's opening Weekend,2006-02-10,46.5,77.0,46.5,75.0,20,20,77.0,46.5
+333234,FINALDESTINATION3.$20.0M,Final Destination 3 to Gross over $20.0 Million in it's opening Weekend,2006-02-11,60.0,60.0,55.0,0.0,22,73,77.0,46.5
+333234,FINALDESTINATION3.$20.0M,Final Destination 3 to Gross over $20.0 Million in it's opening Weekend,2006-02-12,80.0,80.0,71.0,80.0,53,36,80.0,46.5
+333234,FINALDESTINATION3.$20.0M,Final Destination 3 to Gross over $20.0 Million in it's opening Weekend,2006-02-13,72.0,72.0,0.1,70.0,68,120,80.0,0.1

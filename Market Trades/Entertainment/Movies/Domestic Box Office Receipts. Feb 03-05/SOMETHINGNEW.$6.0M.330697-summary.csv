@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+330697,SOMETHINGNEW.$6.0M,Something New to Gross over $6.0 Million in it's opening Weekend,2006-02-03,65.0,70.0,45.0,50.0,48,48,70.0,45.0
+330697,SOMETHINGNEW.$6.0M,Something New to Gross over $6.0 Million in it's opening Weekend,2006-02-04,50.0,60.0,20.0,32.0,79,49,70.0,20.0
+330697,SOMETHINGNEW.$6.0M,Something New to Gross over $6.0 Million in it's opening Weekend,2006-02-05,5.0,15.0,2.0,5.0,89,31,70.0,2.0
+330697,SOMETHINGNEW.$6.0M,Something New to Gross over $6.0 Million in it's opening Weekend,2006-02-06,0.0,0.0,0.0,5.0,89,0,70.0,2.0
+330697,SOMETHINGNEW.$6.0M,Something New to Gross over $6.0 Million in it's opening Weekend,2006-02-07,1.0,1.0,1.0,5.0,88,1,70.0,1.0
+330697,SOMETHINGNEW.$6.0M,Something New to Gross over $6.0 Million in it's opening Weekend,2006-02-07,0.0,0.0,0.0,0.0,0,0,70.0,1.0

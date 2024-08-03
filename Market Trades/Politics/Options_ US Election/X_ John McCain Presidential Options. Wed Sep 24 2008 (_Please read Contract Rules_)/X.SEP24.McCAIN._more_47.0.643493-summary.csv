@@ -1,0 +1,6 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+643493,X.SEP24.McCAIN.>47.0,2008.PRES.McCAIN to be HIGHER than 47.0 on Wed Sep 24 2008 (VWAP 9:00am-12:00pm ET),2008-09-19,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+643493,X.SEP24.McCAIN.>47.0,2008.PRES.McCAIN to be HIGHER than 47.0 on Wed Sep 24 2008 (VWAP 9:00am-12:00pm ET),2008-09-20,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+643493,X.SEP24.McCAIN.>47.0,2008.PRES.McCAIN to be HIGHER than 47.0 on Wed Sep 24 2008 (VWAP 9:00am-12:00pm ET),2008-09-21,75.0,75.0,75.0,74.0,4,4,75.0,75.0
+643493,X.SEP24.McCAIN.>47.0,2008.PRES.McCAIN to be HIGHER than 47.0 on Wed Sep 24 2008 (VWAP 9:00am-12:00pm ET),2008-09-22,25.0,30.0,25.0,74.0,7,3,75.0,25.0
+643493,X.SEP24.McCAIN.>47.0,2008.PRES.McCAIN to be HIGHER than 47.0 on Wed Sep 24 2008 (VWAP 9:00am-12:00pm ET),2008-09-23,55.0,55.0,40.0,40.0,10,6,75.0,25.0

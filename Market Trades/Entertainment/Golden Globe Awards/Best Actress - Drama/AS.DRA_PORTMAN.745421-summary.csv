@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+745421,AS.DRA:PORTMAN,Natalie Portman (Black Swan) to Win,2011-01-11,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+745421,AS.DRA:PORTMAN,Natalie Portman (Black Swan) to Win,2011-01-12,92.9,93.0,92.5,92.5,30,30,93.0,92.5
+745421,AS.DRA:PORTMAN,Natalie Portman (Black Swan) to Win,2011-01-13,0.0,0.0,0.0,92.5,30,0,93.0,92.5
+745421,AS.DRA:PORTMAN,Natalie Portman (Black Swan) to Win,2011-01-14,0.0,0.0,0.0,92.5,30,0,93.0,92.5
+745421,AS.DRA:PORTMAN,Natalie Portman (Black Swan) to Win,2011-01-15,86.0,86.0,86.0,86.0,33,3,93.0,86.0
+745421,AS.DRA:PORTMAN,Natalie Portman (Black Swan) to Win,2011-01-16,0.0,0.0,0.0,86.0,33,0,93.0,86.0

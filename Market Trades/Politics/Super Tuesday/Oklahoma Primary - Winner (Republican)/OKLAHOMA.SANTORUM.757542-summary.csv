@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-15,70.0,70.0,70.0,70.0,3,3,70.0,70.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-16,70.0,70.0,62.0,62.0,33,30,70.0,62.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-17,0.0,0.0,0.0,62.0,33,0,70.0,62.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-18,60.0,60.0,60.0,60.0,38,5,70.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-19,0.0,0.0,0.0,60.0,38,0,70.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-20,75.0,75.0,70.8,75.0,67,39,75.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-21,78.0,78.0,65.0,65.0,74,7,78.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-22,70.0,75.0,67.0,75.0,252,218,78.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-23,70.0,71.0,60.2,71.0,270,19,78.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-24,71.9,72.0,71.9,72.0,271,5,78.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-25,72.0,72.0,72.0,72.0,336,80,78.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-26,75.0,79.5,68.0,79.5,359,23,79.5,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-27,78.5,80.0,78.5,80.0,373,19,80.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-28,80.0,89.4,75.0,80.0,399,26,89.4,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-02-29,85.0,89.5,80.0,89.5,503,105,89.5,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-03-01,90.0,90.0,80.0,80.0,527,32,90.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-03-02,88.8,88.8,75.1,75.1,549,37,90.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-03-03,87.9,87.9,75.2,87.9,564,64,90.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-03-04,75.9,88.0,75.0,87.9,905,393,90.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-03-05,88.5,93.0,86.9,89.6,1105,228,93.0,60.0
+757542,OKLAHOMA.SANTORUM,Rick Santorum to win the 2012 Oklahoma Primary,2012-03-06,89.9,99.9,84.5,99.9,1468,1154,99.9,60.0

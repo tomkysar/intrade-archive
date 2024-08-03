@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-22,,,,,0,0,,
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-23,,,,,0,0,,
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-24,50.0,50.0,50.0,50.0,10,10,50.0,50.0
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-25,,,,50.0,10,0,50.0,50.0
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-26,49.0,50.0,42.0,50.0,16,7,50.0,42.0
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-27,,,,50.0,16,0,50.0,42.0
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-28,,,,50.0,16,0,50.0,42.0
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-29,65.0,65.0,55.0,55.0,22,6,65.0,42.0
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-06-30,99.9,99.9,99.9,99.9,22,16,99.9,42.0
+762564,TED.+$30.0M,Ted to gross OVER $30.0M in opening weekend,2012-07-01,,,,99.9,22,0,99.9,42.0

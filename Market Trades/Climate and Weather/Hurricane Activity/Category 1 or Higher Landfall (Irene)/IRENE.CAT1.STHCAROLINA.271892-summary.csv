@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-11,10.0,10.0,10.0,0.0,8,8,10.0,10.0
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-12,10.0,10.0,3.0,3.0,51,45,10.0,3.0
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-13,0.3,0.3,0.3,3.0,50,1,10.0,0.3
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-14,0.0,0.0,0.0,1.2,50,0,10.0,0.3
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-15,0.3,0.3,0.3,0.5,50,41,10.0,0.3
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-16,0.0,0.0,0.0,0.3,50,0,10.0,0.3
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-17,0.0,0.0,0.0,0.3,50,0,10.0,0.3
+271892,IRENE.CAT1.STHCAROLINA,Hurricane Irene to make landfall in South Carolina as Category 1 or Higher,2005-08-18,1.0,1.0,1.0,0.3,50,1,10.0,0.3

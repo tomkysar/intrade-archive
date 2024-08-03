@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+577262,DEM.MD.CLINTON,Hillary Clinton to Win,2008-02-06,15.0,15.0,15.0,0.0,10,10,15.0,15.0
+577262,DEM.MD.CLINTON,Hillary Clinton to Win,2008-02-07,10.0,10.0,10.0,12.0,59,49,15.0,10.0
+577262,DEM.MD.CLINTON,Hillary Clinton to Win,2008-02-08,10.0,13.0,10.0,10.1,188,129,15.0,10.0
+577262,DEM.MD.CLINTON,Hillary Clinton to Win,2008-02-09,5.0,5.0,5.0,10.1,208,20,15.0,5.0
+577262,DEM.MD.CLINTON,Hillary Clinton to Win,2008-02-10,5.0,5.0,5.0,3.4,208,50,15.0,5.0
+577262,DEM.MD.CLINTON,Hillary Clinton to Win,2008-02-11,2.5,4.0,1.5,1.5,214,11,15.0,1.5
+577262,DEM.MD.CLINTON,Hillary Clinton to Win,2008-02-12,2.0,3.0,0.7,2.3,266,208,15.0,0.7

@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+323059,GLOBE.COM.PHOENIX,Joaquin Phoenix (Walk the Line) to Win,2006-01-11,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+323059,GLOBE.COM.PHOENIX,Joaquin Phoenix (Walk the Line) to Win,2006-01-12,78.0,78.0,78.0,78.0,10,10,78.0,78.0
+323059,GLOBE.COM.PHOENIX,Joaquin Phoenix (Walk the Line) to Win,2006-01-13,80.0,80.0,80.0,80.0,11,10,80.0,78.0
+323059,GLOBE.COM.PHOENIX,Joaquin Phoenix (Walk the Line) to Win,2006-01-14,0.0,0.0,0.0,80.0,11,0,80.0,78.0
+323059,GLOBE.COM.PHOENIX,Joaquin Phoenix (Walk the Line) to Win,2006-01-15,82.0,82.0,82.0,80.0,12,1,82.0,78.0
+323059,GLOBE.COM.PHOENIX,Joaquin Phoenix (Walk the Line) to Win,2006-01-16,83.0,99.9,81.0,83.0,30,39,99.9,78.0

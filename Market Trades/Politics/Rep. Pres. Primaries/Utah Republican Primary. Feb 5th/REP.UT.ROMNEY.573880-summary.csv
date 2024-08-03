@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-01-28,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-01-29,90.1,90.1,80.0,0.0,3,3,90.1,80.0
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-01-30,90.0,95.0,90.0,95.0,10,7,95.0,80.0
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-01-31,95.0,95.0,95.0,95.0,13,3,95.0,80.0
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-02-01,95.0,95.1,95.0,95.1,13,2,95.1,80.0
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-02-02,0.0,0.0,0.0,95.1,13,0,95.1,80.0
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-02-03,0.0,0.0,0.0,97.7,13,0,95.1,80.0
+573880,REP.UT.ROMNEY,Mitt Romney to Win,2008-02-04,98.5,98.5,98.5,97.7,9,4,98.5,80.0

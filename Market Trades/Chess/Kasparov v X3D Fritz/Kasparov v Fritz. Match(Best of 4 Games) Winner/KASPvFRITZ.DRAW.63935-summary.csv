@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-11,0.0,0.0,0.0,10.0,0,0,0.0,0.0
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-12,75.0,75.0,75.0,50.0,10,10,75.0,75.0
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-13,0.0,0.0,0.0,0.0,10,0,75.0,75.0
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-14,0.0,0.0,0.0,30.0,10,0,75.0,75.0
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-15,0.0,0.0,0.0,30.0,10,0,75.0,75.0
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-16,0.0,0.0,0.0,30.0,10,0,75.0,75.0
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-17,0.0,0.0,0.0,30.0,10,0,75.0,75.0
+63935,KASPvFRITZ.DRAW,Match to Draw,2003-11-18,72.0,98.0,62.0,0.0,117,107,98.0,62.0

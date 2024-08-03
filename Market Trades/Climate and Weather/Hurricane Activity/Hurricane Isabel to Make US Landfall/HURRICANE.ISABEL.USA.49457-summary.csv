@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+49457,HURRICANE.ISABEL.USA,Hurricane Isabel eyewall to make landfall on the USA,2003-09-12,60.0,64.0,55.0,63.0,56,76,64.0,55.0
+49457,HURRICANE.ISABEL.USA,Hurricane Isabel eyewall to make landfall on the USA,2003-09-13,65.0,71.0,58.0,58.0,222,244,71.0,55.0
+49457,HURRICANE.ISABEL.USA,Hurricane Isabel eyewall to make landfall on the USA,2003-09-14,65.0,95.0,65.0,87.0,180,384,95.0,55.0
+49457,HURRICANE.ISABEL.USA,Hurricane Isabel eyewall to make landfall on the USA,2003-09-15,94.0,95.0,70.0,92.0,600,1065,95.0,55.0
+49457,HURRICANE.ISABEL.USA,Hurricane Isabel eyewall to make landfall on the USA,2003-09-16,85.0,94.0,80.0,86.0,661,1139,95.0,55.0
+49457,HURRICANE.ISABEL.USA,Hurricane Isabel eyewall to make landfall on the USA,2003-09-17,99.0,99.0,98.0,0.0,0,110,99.0,55.0
+49457,HURRICANE.ISABEL.USA,Hurricane Isabel eyewall to make landfall on the USA,2003-09-17,91.0,99.0,91.0,98.0,541,479,99.0,55.0

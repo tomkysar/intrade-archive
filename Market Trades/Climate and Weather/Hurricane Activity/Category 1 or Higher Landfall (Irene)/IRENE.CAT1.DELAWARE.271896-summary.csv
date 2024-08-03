@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-11,5.0,5.0,5.0,0.0,1,1,5.0,5.0
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-12,2.0,2.0,2.0,5.0,1,1,5.0,2.0
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-13,0.0,0.0,0.0,5.0,1,0,5.0,2.0
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-14,0.0,0.0,0.0,1.2,1,0,5.0,2.0
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-15,0.0,0.0,0.0,0.5,1,0,5.0,2.0
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-16,0.0,0.0,0.0,0.3,1,0,5.0,2.0
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-17,0.0,0.0,0.0,0.3,1,0,5.0,2.0
+271896,IRENE.CAT1.DELAWARE,Hurricane Irene to make landfall in Delaware as Category 1 or Higher,2005-08-18,0.1,0.1,0.1,0.3,1,1,5.0,0.1

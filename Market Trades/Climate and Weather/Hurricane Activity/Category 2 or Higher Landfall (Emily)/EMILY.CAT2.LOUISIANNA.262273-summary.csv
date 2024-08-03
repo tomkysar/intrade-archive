@@ -1,0 +1,10 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-13,5.1,15.0,5.1,13.0,32,34,15.0,5.1
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-14,10.0,10.0,7.0,13.0,140,110,15.0,5.1
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-15,5.5,13.0,4.0,13.0,175,57,15.0,4.0
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-16,2.1,2.1,2.1,13.0,195,20,15.0,2.1
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-17,2.1,2.1,1.1,2.0,236,62,15.0,1.1
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-18,0.2,0.3,0.1,0.1,236,133,15.0,0.1
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-19,0.1,0.1,0.1,0.1,211,25,15.0,0.1
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-20,0.1,0.1,0.1,0.1,211,25,15.0,0.1
+262273,EMILY.CAT2.LOUISIANNA,Hurricane Emily to first make Landfall in Louisianna,2005-07-21,0.0,0.0,0.0,0.1,211,0,15.0,0.1

@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+333235,PINKPANTHER.$24.0M,Pink Panther to Gross over $24.0 Million in it's opening Weekend,2006-02-10,41.7,44.7,15.0,44.7,187,356,44.7,15.0
+333235,PINKPANTHER.$24.0M,Pink Panther to Gross over $24.0 Million in it's opening Weekend,2006-02-11,15.0,20.0,1.0,0.0,206,51,44.7,1.0
+333235,PINKPANTHER.$24.0M,Pink Panther to Gross over $24.0 Million in it's opening Weekend,2006-02-12,1.0,1.5,0.1,1.0,203,22,44.7,0.1
+333235,PINKPANTHER.$24.0M,Pink Panther to Gross over $24.0 Million in it's opening Weekend,2006-02-13,0.4,0.4,0.1,1.0,107,104,44.7,0.1

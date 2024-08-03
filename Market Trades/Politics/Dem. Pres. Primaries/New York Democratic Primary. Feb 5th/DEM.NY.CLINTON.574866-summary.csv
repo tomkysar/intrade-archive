@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+574866,DEM.NY.CLINTON,Hillary Clinton to Win,2008-01-30,70.0,70.0,70.0,80.0,1,1,70.0,70.0
+574866,DEM.NY.CLINTON,Hillary Clinton to Win,2008-01-31,90.0,90.0,89.0,90.0,25,25,90.0,70.0
+574866,DEM.NY.CLINTON,Hillary Clinton to Win,2008-02-01,96.9,96.9,96.9,96.9,27,2,96.9,70.0
+574866,DEM.NY.CLINTON,Hillary Clinton to Win,2008-02-02,0.0,0.0,0.0,96.9,27,0,96.9,70.0
+574866,DEM.NY.CLINTON,Hillary Clinton to Win,2008-02-03,0.0,0.0,0.0,89.0,27,0,96.9,70.0
+574866,DEM.NY.CLINTON,Hillary Clinton to Win,2008-02-04,92.0,92.0,92.0,92.0,52,25,96.9,70.0

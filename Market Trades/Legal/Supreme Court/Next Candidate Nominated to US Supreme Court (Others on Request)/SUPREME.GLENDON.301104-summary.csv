@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+301104,SUPREME.GLENDON,Mary Ann Glendon to be Next Nominee to the Supreme Court,2005-10-27,2.0,2.0,0.1,0.0,183,193,2.0,0.1
+301104,SUPREME.GLENDON,Mary Ann Glendon to be Next Nominee to the Supreme Court,2005-10-28,1.4,1.4,0.6,1.1,254,81,2.0,0.1
+301104,SUPREME.GLENDON,Mary Ann Glendon to be Next Nominee to the Supreme Court,2005-10-29,0.9,4.0,0.9,1.1,571,319,4.0,0.1
+301104,SUPREME.GLENDON,Mary Ann Glendon to be Next Nominee to the Supreme Court,2005-10-30,1.1,1.1,1.0,1.0,619,58,4.0,0.1

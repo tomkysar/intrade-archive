@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+745425,AC.C/M:GIAMATTI,Paul Giamatti (Barney's Version) to Win,2011-01-11,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+745425,AC.C/M:GIAMATTI,Paul Giamatti (Barney's Version) to Win,2011-01-12,20.0,21.0,20.0,20.0,30,30,21.0,20.0
+745425,AC.C/M:GIAMATTI,Paul Giamatti (Barney's Version) to Win,2011-01-13,0.0,0.0,0.0,20.0,30,0,21.0,20.0
+745425,AC.C/M:GIAMATTI,Paul Giamatti (Barney's Version) to Win,2011-01-14,27.0,27.0,27.0,27.0,30,5,27.0,20.0
+745425,AC.C/M:GIAMATTI,Paul Giamatti (Barney's Version) to Win,2011-01-15,0.0,0.0,0.0,27.0,30,0,27.0,20.0
+745425,AC.C/M:GIAMATTI,Paul Giamatti (Barney's Version) to Win,2011-01-16,15.0,27.0,15.0,27.0,32,7,27.0,15.0

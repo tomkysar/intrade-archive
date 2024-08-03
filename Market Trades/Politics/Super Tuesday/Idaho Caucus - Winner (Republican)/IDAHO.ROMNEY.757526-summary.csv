@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-15,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-16,80.0,80.0,78.0,78.0,21,21,80.0,78.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-17,75.0,75.0,75.0,75.0,31,10,80.0,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-18,75.0,75.1,75.0,75.0,44,13,80.0,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-19,75.1,75.1,75.0,75.0,59,15,80.0,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-20,75.0,75.0,75.0,75.0,64,5,80.0,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-21,0.0,0.0,0.0,75.0,64,0,80.0,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-22,87.7,88.7,87.7,88.7,76,12,88.7,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-23,86.9,86.9,86.9,86.9,82,6,88.7,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-24,89.9,90.7,89.9,90.7,144,75,90.7,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-25,87.1,90.8,87.1,90.8,159,15,90.8,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-26,87.2,92.9,87.2,92.9,184,28,92.9,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-27,87.5,87.7,80.0,80.0,421,240,92.9,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-28,80.1,93.0,80.1,93.0,443,38,93.0,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-02-29,92.5,95.4,92.5,94.9,671,230,95.4,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-03-01,92.8,95.5,92.8,95.1,760,90,95.5,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-03-02,97.9,97.9,93.3,95.8,847,129,97.9,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-03-03,94.0,95.8,94.0,94.0,861,65,97.9,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-03-04,94.0,97.5,93.4,96.9,983,143,97.9,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-03-05,94.1,96.4,93.4,94.0,1129,151,97.9,75.0
+757526,IDAHO.ROMNEY,Mitt Romney to win the 2012 Idaho Caucus,2012-03-06,93.4,99.9,89.1,99.9,1385,441,99.9,75.0

@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-07,,,,,0,0,,
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-08,45.0,45.0,10.0,10.0,96,96,45.0,10.0
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-09,,,,10.0,96,0,45.0,10.0
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-10,,,,10.0,96,0,45.0,10.0
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-11,12.0,12.0,12.0,12.0,101,5,45.0,10.0
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-12,7.5,13.5,7.5,13.5,108,37,45.0,7.5
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-13,11.8,11.8,7.5,7.5,115,7,45.0,7.5
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-14,2.5,3.5,0.1,0.1,118,31,45.0,0.1
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-15,,,,0.1,118,0,45.0,0.1
+765340,THE.MASTER.+$2.0M,The Master to gross OVER $2.0M in opening weekend,2012-09-16,0.2,0.2,0.2,0.2,123,6,45.0,0.1

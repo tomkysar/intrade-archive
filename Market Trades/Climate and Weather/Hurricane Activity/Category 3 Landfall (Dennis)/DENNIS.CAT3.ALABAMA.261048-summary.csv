@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+261048,DENNIS.CAT3.ALABAMA,Hurricane Dennis to make landfall in Alabama as a Category 3 or higher hurricane,2005-07-08,20.0,30.0,20.0,30.0,219,240,30.0,20.0
+261048,DENNIS.CAT3.ALABAMA,Hurricane Dennis to make landfall in Alabama as a Category 3 or higher hurricane,2005-07-09,44.9,48.0,15.1,0.0,0,383,50.0,15.0
+261048,DENNIS.CAT3.ALABAMA,Hurricane Dennis to make landfall in Alabama as a Category 3 or higher hurricane,2005-07-09,29.7,50.0,15.0,20.1,404,284,50.0,15.0

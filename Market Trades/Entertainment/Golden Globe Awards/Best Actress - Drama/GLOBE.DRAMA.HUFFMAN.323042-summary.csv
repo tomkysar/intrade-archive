@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+323042,GLOBE.DRAMA.HUFFMAN,Felicity Huffman (Transamerica) to WIn,2006-01-11,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+323042,GLOBE.DRAMA.HUFFMAN,Felicity Huffman (Transamerica) to WIn,2006-01-12,65.0,65.0,65.0,65.0,10,10,65.0,65.0
+323042,GLOBE.DRAMA.HUFFMAN,Felicity Huffman (Transamerica) to WIn,2006-01-13,68.0,68.0,68.0,65.0,10,10,68.0,65.0
+323042,GLOBE.DRAMA.HUFFMAN,Felicity Huffman (Transamerica) to WIn,2006-01-14,70.0,70.0,70.0,65.0,11,1,70.0,65.0
+323042,GLOBE.DRAMA.HUFFMAN,Felicity Huffman (Transamerica) to WIn,2006-01-15,71.0,71.0,71.0,71.0,17,6,71.0,65.0
+323042,GLOBE.DRAMA.HUFFMAN,Felicity Huffman (Transamerica) to WIn,2006-01-16,73.0,94.0,69.0,69.0,45,28,94.0,65.0

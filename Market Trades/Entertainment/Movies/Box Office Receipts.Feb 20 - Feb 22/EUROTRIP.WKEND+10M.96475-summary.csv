@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+96475,EUROTRIP.WKEND+10M,Eurotrip to gross OVER $10M in opening weekend,2004-02-20,0.0,0.0,0.0,50.0,0,0,0.0,0.0
+96475,EUROTRIP.WKEND+10M,Eurotrip to gross OVER $10M in opening weekend,2004-02-21,8.0,8.0,1.0,8.0,30,30,8.0,1.0
+96475,EUROTRIP.WKEND+10M,Eurotrip to gross OVER $10M in opening weekend,2004-02-22,4.0,4.0,4.0,4.0,33,3,8.0,1.0
+96475,EUROTRIP.WKEND+10M,Eurotrip to gross OVER $10M in opening weekend,2004-02-23,3.0,3.0,3.0,3.0,83,50,8.0,1.0

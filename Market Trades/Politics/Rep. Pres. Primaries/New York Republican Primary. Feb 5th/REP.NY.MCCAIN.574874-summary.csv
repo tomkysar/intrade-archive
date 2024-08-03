@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+574874,REP.NY.MCCAIN,John McCain to Win,2008-01-30,25.0,25.0,25.0,95.0,10,10,25.0,25.0
+574874,REP.NY.MCCAIN,John McCain to Win,2008-01-31,0.0,0.0,0.0,95.0,10,0,25.0,25.0
+574874,REP.NY.MCCAIN,John McCain to Win,2008-02-01,94.9,94.9,90.0,94.9,30,30,94.9,25.0
+574874,REP.NY.MCCAIN,John McCain to Win,2008-02-02,95.0,95.0,94.9,94.9,30,12,95.0,25.0
+574874,REP.NY.MCCAIN,John McCain to Win,2008-02-03,94.9,94.9,94.9,96.0,30,8,95.0,25.0
+574874,REP.NY.MCCAIN,John McCain to Win,2008-02-04,0.0,0.0,0.0,96.0,30,0,95.0,25.0

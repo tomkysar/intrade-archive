@@ -1,0 +1,14 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-17,4.0,4.4,4.0,0.0,40,40,4.4,4.0
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-18,4.5,4.5,4.5,4.5,60,20,4.5,4.0
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-19,3.0,3.0,3.0,0.0,80,20,4.5,3.0
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-20,3.4,3.4,3.4,1.9,110,30,4.5,3.0
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-21,3.5,3.5,1.0,1.9,173,64,4.5,1.0
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-22,1.0,1.0,0.1,0.5,239,108,4.5,0.1
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-23,0.1,0.2,0.1,0.0,255,31,4.5,0.1
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-24,0.2,0.2,0.2,0.0,267,12,4.5,0.1
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-25,0.3,0.3,0.3,0.0,321,54,4.5,0.1
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-26,0.3,0.6,0.2,0.0,398,107,4.5,0.1
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-27,1.0,2.0,0.1,0.5,696,494,4.5,0.1
+454345,AI.LESLIE,Leslie Hunt to Win,2007-02-28,0.3,0.3,0.1,0.3,700,39,4.5,0.1
+454345,AI.LESLIE,Leslie Hunt to Win,2007-03-01,0.0,0.0,0.0,0.3,0,0,4.5,0.1

@@ -1,0 +1,17 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-06,48.0,48.0,48.0,48.0,5,5,48.0,48.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-07,25.0,25.0,25.0,25.0,10,5,48.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-08,28.0,30.0,28.0,30.0,17,7,48.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-09,48.0,48.0,48.0,48.0,18,1,48.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-10,49.4,54.0,49.4,52.0,47,64,54.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-11,52.0,65.0,41.0,50.0,262,230,65.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-12,55.0,65.0,52.0,59.5,332,122,65.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-13,57.0,65.0,52.0,65.0,440,143,65.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-14,62.0,64.8,36.0,55.0,610,175,65.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-15,55.0,60.0,48.0,59.8,687,129,65.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-16,59.8,65.5,50.0,65.5,939,454,65.5,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-17,65.5,84.0,65.0,80.0,1126,296,84.0,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-18,84.0,84.5,66.2,67.2,1334,804,84.5,25.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-19,74.8,74.8,22.0,26.0,1156,804,84.5,22.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-20,30.0,39.4,6.0,13.5,1081,226,84.5,6.0
+755801,STH.CAR.2nd:GINGRICH,Newt Gingrich to finish second in the 2012 South Carolina Primary,2012-01-21,13.3,15.0,0.1,0.1,1641,1540,84.5,0.1

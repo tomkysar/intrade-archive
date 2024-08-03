@@ -1,0 +1,15 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-21,50.0,50.0,50.0,50.0,4,4,50.0,50.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-22,,,,50.0,4,0,50.0,50.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-23,45.0,45.0,45.0,45.0,9,5,50.0,45.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-24,45.0,45.0,45.0,45.0,9,5,50.0,45.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-25,50.0,50.0,50.0,50.0,14,5,50.0,45.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-26,60.0,60.0,60.0,60.0,17,3,60.0,45.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-27,60.0,65.0,40.0,40.0,64,52,65.0,40.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-28,,,,40.0,64,0,65.0,40.0
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-29,41.1,41.1,35.1,35.2,62,11,65.0,35.1
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-30,35.2,35.2,35.2,35.2,80,20,65.0,35.1
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-03-31,57.5,70.0,57.5,60.0,92,19,70.0,35.1
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-04-01,70.0,71.0,45.0,45.0,134,69,71.0,35.1
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-04-02,,,,45.0,134,0,71.0,35.1
+759135,WISCONSIN.MARGIN.10%+,Margin of victory in the 2012 Wisconsin Primary to be 10 percentage points or more,2012-04-03,41.5,50.0,0.1,0.1,141,235,71.0,0.1

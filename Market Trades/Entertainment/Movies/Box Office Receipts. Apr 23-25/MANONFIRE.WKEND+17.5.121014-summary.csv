@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+121014,MANONFIRE.WKEND+17.5,Man On Fire to gross OVER $17.5M in opening weekend,2004-04-23,41.0,41.0,41.0,50.0,10,10,41.0,41.0
+121014,MANONFIRE.WKEND+17.5,Man On Fire to gross OVER $17.5M in opening weekend,2004-04-24,75.0,75.0,75.0,0.0,15,5,75.0,41.0
+121014,MANONFIRE.WKEND+17.5,Man On Fire to gross OVER $17.5M in opening weekend,2004-04-25,65.0,65.0,64.0,64.0,19,4,75.0,41.0

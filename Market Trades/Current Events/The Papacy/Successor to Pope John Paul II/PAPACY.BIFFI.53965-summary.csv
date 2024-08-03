@@ -1,0 +1,16 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-04,1.0,1.0,1.0,1.0,1,1,1.0,1.0
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-05,0.0,0.0,0.0,1.0,1,0,1.0,1.0
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-06,0.0,0.0,0.0,1.0,1,0,1.0,1.0
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-07,0.0,0.0,0.0,0.8,1,0,1.0,1.0
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-08,1.0,1.0,1.0,0.8,21,20,1.0,1.0
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-09,0.8,0.8,0.8,0.8,23,2,1.0,0.8
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-10,0.0,0.0,0.0,0.8,23,0,1.0,0.8
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-11,0.9,1.0,0.9,0.8,43,20,1.0,0.8
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-12,0.8,0.8,0.8,0.8,49,6,1.0,0.8
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-13,0.8,0.8,0.8,0.8,52,3,1.0,0.8
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-14,0.9,0.9,0.8,0.9,76,28,1.0,0.8
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-15,0.3,1.0,0.3,0.6,184,117,1.0,0.3
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-16,1.0,1.3,0.9,1.3,339,186,1.3,0.3
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-17,1.0,1.0,0.5,1.0,344,104,1.3,0.3
+53965,PAPACY.BIFFI,Giacomo Biffi(Italy) to succeed Pope John Paul II,2005-04-18,0.6,0.8,0.6,0.6,349,5,1.3,0.3

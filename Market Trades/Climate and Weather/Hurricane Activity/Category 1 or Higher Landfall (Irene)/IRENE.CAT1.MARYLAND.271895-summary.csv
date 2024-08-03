@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-11,30.0,30.0,30.0,0.0,5,5,30.0,30.0
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-12,10.0,10.0,1.0,1.0,6,6,30.0,1.0
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-13,1.0,1.0,1.0,1.0,7,1,30.0,1.0
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-14,0.0,0.0,0.0,1.0,7,0,30.0,1.0
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-15,0.0,0.0,0.0,0.5,7,0,30.0,1.0
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-16,0.0,0.0,0.0,0.3,7,0,30.0,1.0
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-17,0.0,0.0,0.0,0.3,7,0,30.0,1.0
+271895,IRENE.CAT1.MARYLAND,Hurricane Irene to make landfall in Maryland as Category 1 or Higher,2005-08-18,0.1,0.1,0.1,0.3,7,1,30.0,0.1

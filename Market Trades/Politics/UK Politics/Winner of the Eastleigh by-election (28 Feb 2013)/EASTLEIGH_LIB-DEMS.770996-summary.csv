@@ -1,0 +1,19 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-14,60.0,60.0,60.0,60.0,20,20,60.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-15,62.6,62.6,62.6,62.6,21,1,62.6,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-16,62.3,80.0,62.3,80.0,31,10,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-17,,,,80.0,31,0,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-18,61.5,61.6,61.5,61.6,36,10,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-19,65.0,65.1,65.0,65.1,62,26,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-20,,,,65.1,62,0,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-21,,,,65.1,62,0,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-22,70.0,70.0,70.0,70.0,67,5,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-23,70.0,75.0,67.0,75.0,89,42,80.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-24,70.0,90.0,70.0,90.0,101,12,90.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-25,77.8,80.0,77.8,80.0,109,8,90.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-26,83.0,83.0,77.5,77.5,146,37,90.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-27,75.0,80.0,75.0,77.8,256,120,90.0,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-02-28,80.0,99.9,70.0,99.9,272,42,99.9,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-03-01,99.9,99.9,99.9,99.9,272,10,99.9,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-03-02,99.5,99.5,99.0,99.0,257,15,99.9,60.0
+770996,EASTLEIGH:LIB-DEMS,Liberal Democrat candidate to win the Eastleigh by-election,2013-03-03,99.9,99.9,99.9,99.9,257,5,99.9,60.0

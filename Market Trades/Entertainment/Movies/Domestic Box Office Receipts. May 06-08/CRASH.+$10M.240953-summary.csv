@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+240953,CRASH.+$10M,Crash to gross OVER $10.0M in opening weekend,2005-05-06,38.9,65.0,15.0,35.0,147,172,65.0,15.0
+240953,CRASH.+$10M,Crash to gross OVER $10.0M in opening weekend,2005-05-07,0.0,0.0,0.0,35.0,147,0,65.0,15.0
+240953,CRASH.+$10M,Crash to gross OVER $10.0M in opening weekend,2005-05-08,3.0,3.0,3.0,24.7,150,5,65.0,3.0
+240953,CRASH.+$10M,Crash to gross OVER $10.0M in opening weekend,2005-05-09,8.0,8.0,0.3,3.5,150,10,65.0,0.3

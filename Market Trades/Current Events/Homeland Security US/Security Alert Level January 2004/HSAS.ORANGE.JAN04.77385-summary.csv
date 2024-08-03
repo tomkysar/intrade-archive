@@ -1,0 +1,17 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2003-12-30,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2003-12-31,0.0,0.0,0.0,20.0,0,0,0.0,0.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-01,25.0,39.0,25.0,80.0,150,150,39.0,25.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-02,0.0,0.0,0.0,35.0,150,0,39.0,25.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-03,38.0,38.0,38.0,35.0,151,1,39.0,25.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-04,0.0,0.0,0.0,32.0,151,0,39.0,25.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-05,34.0,38.0,34.0,32.0,183,32,39.0,25.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-06,37.0,45.0,37.0,39.0,215,32,45.0,25.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-07,35.0,36.0,14.0,22.0,223,180,45.0,14.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-08,20.0,20.0,20.0,22.0,229,10,45.0,14.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-09,23.0,25.0,9.0,10.0,258,70,45.0,9.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-10,8.0,8.0,8.0,10.0,256,2,45.0,8.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-11,0.0,0.0,0.0,10.0,256,0,45.0,8.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-12,8.0,8.0,8.0,10.0,256,4,45.0,8.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-01-13,0.0,0.0,0.0,10.0,256,0,45.0,8.0
+77385,HSAS.ORANGE.JAN04,Homeland Security Advisory System to be Orange(Condition High) on 31 Jan 2004,2004-11-07,0.0,0.0,0.0,0.0,0,0,45.0,8.0

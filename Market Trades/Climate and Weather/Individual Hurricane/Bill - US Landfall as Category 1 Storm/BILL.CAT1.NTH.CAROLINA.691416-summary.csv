@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-17,5.0,5.0,5.0,5.0,20,20,5.0,5.0
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-18,4.0,4.0,4.0,4.0,40,20,5.0,4.0
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-19,0.0,0.0,0.0,4.0,40,0,5.0,4.0
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-20,0.0,0.0,0.0,4.0,40,0,5.0,4.0
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-21,0.0,0.0,0.0,4.0,40,0,5.0,4.0
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-22,0.6,0.6,0.6,0.6,40,20,5.0,0.6
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-23,0.0,0.0,0.0,0.6,40,0,5.0,0.6
+691416,BILL.CAT1.NTH.CAROLINA,Bill to make first landfall as Category 1 storm (or higher) in North Carolina,2009-08-24,0.0,0.0,0.0,0.6,40,0,5.0,0.6

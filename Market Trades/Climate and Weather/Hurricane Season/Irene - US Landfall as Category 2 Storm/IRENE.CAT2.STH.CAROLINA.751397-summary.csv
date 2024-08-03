@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+751397,IRENE.CAT2.STH.CAROLINA,Irene to make first landfall as Category 2 storm (or higher) in South Carolina,2011-08-23,25.0,25.0,25.0,25.0,10,10,25.0,25.0
+751397,IRENE.CAT2.STH.CAROLINA,Irene to make first landfall as Category 2 storm (or higher) in South Carolina,2011-08-24,0.0,0.0,0.0,25.0,10,0,25.0,25.0
+751397,IRENE.CAT2.STH.CAROLINA,Irene to make first landfall as Category 2 storm (or higher) in South Carolina,2011-08-25,10.0,15.0,9.9,15.0,19,9,25.0,9.9
+751397,IRENE.CAT2.STH.CAROLINA,Irene to make first landfall as Category 2 storm (or higher) in South Carolina,2011-08-26,1.0,1.0,1.0,1.0,44,25,25.0,1.0
+751397,IRENE.CAT2.STH.CAROLINA,Irene to make first landfall as Category 2 storm (or higher) in South Carolina,2011-08-27,0.0,0.0,0.0,1.0,44,0,25.0,1.0
+751397,IRENE.CAT2.STH.CAROLINA,Irene to make first landfall as Category 2 storm (or higher) in South Carolina,2011-08-28,0.0,0.0,0.0,1.0,44,0,25.0,1.0

@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+246629,UNIVERSE.RUSSIA,Miss Russia to Win Miss Universe,2005-05-24,2.0,2.0,1.8,1.0,23,23,2.0,1.8
+246629,UNIVERSE.RUSSIA,Miss Russia to Win Miss Universe,2005-05-25,0.0,0.0,0.0,1.0,23,0,2.0,1.8
+246629,UNIVERSE.RUSSIA,Miss Russia to Win Miss Universe,2005-05-26,0.0,0.0,0.0,1.0,23,0,2.0,1.8
+246629,UNIVERSE.RUSSIA,Miss Russia to Win Miss Universe,2005-05-27,0.0,0.0,0.0,1.0,23,0,2.0,1.8
+246629,UNIVERSE.RUSSIA,Miss Russia to Win Miss Universe,2005-05-28,9.9,9.9,5.0,4.0,46,23,9.9,1.8
+246629,UNIVERSE.RUSSIA,Miss Russia to Win Miss Universe,2005-05-29,3.3,3.3,3.3,0.0,0,25,9.9,1.8
+246629,UNIVERSE.RUSSIA,Miss Russia to Win Miss Universe,2005-05-29,0.0,0.0,0.0,4.0,46,0,9.9,1.8

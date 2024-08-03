@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-10-26,,,,,0,0,,
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-10-27,,,,,0,0,,
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-10-28,,,,,0,0,,
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-10-29,,,,,0,0,,
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-10-30,50.0,50.0,50.0,50.0,1,1,50.0,50.0
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-10-31,65.0,65.0,65.0,65.0,5,5,65.0,50.0
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-11-01,,,,65.0,5,0,65.0,50.0
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-11-02,,,,65.0,5,0,65.0,50.0
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-11-03,65.0,65.0,15.0,15.0,25,24,65.0,15.0
+767113,WRECK.+$50.0M,Wreck-It Ralph to gross OVER $50.0M in opening weekend,2012-11-04,49.0,65.0,47.5,65.0,75,50,65.0,15.0

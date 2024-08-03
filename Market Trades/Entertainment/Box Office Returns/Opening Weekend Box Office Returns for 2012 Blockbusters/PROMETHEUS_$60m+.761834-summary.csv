@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-01,75.0,75.0,70.0,75.0,15,15,75.0,70.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-02,,,,75.0,15,0,75.0,70.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-03,70.0,70.0,70.0,70.0,20,5,75.0,70.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-04,52.0,52.0,52.0,52.0,22,2,75.0,52.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-05,,,,52.0,22,0,75.0,52.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-06,55.0,55.0,52.5,52.5,75,53,75.0,52.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-07,52.0,58.0,52.0,58.0,99,44,75.0,52.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-08,58.0,70.0,10.0,10.0,406,478,75.0,10.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-09,7.2,25.0,2.0,2.5,482,99,75.0,2.0
+761834,PROMETHEUS:$60m+,Prometheus to gross OVER $60.0M in opening weekend,2012-06-10,0.5,15.0,0.1,0.1,631,286,75.0,0.1

@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+151613,COLLATERAL.OVER$23M,Collateral to gross OVER $23M in opening weekend,2004-08-06,75.0,85.0,71.1,50.0,16,16,85.0,71.1
+151613,COLLATERAL.OVER$23M,Collateral to gross OVER $23M in opening weekend,2004-08-07,80.0,80.0,80.0,82.0,19,3,85.0,71.1
+151613,COLLATERAL.OVER$23M,Collateral to gross OVER $23M in opening weekend,2004-08-08,0.0,0.0,0.0,0.0,19,0,85.0,71.1
+151613,COLLATERAL.OVER$23M,Collateral to gross OVER $23M in opening weekend,2004-08-09,99.9,99.9,99.9,0.0,14,5,99.9,71.1

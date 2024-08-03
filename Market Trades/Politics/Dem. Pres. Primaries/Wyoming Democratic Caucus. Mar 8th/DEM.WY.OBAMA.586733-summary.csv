@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+586733,DEM.WY.OBAMA,Barack Obama to Win,2008-03-05,90.0,97.0,80.1,95.0,72,83,97.0,80.1
+586733,DEM.WY.OBAMA,Barack Obama to Win,2008-03-06,93.6,95.3,93.6,93.7,153,81,97.0,80.1
+586733,DEM.WY.OBAMA,Barack Obama to Win,2008-03-07,95.0,95.0,91.6,91.6,239,127,97.0,80.1
+586733,DEM.WY.OBAMA,Barack Obama to Win,2008-03-07,94.9,99.5,94.0,99.9,0,390,99.5,80.1

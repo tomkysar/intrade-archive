@@ -1,0 +1,13 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-02,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-03,65.0,65.0,65.0,65.0,5,5,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-04,0.0,0.0,0.0,65.0,5,0,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-05,0.0,0.0,0.0,65.0,5,0,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-06,0.0,0.0,0.0,65.0,5,0,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-07,0.0,0.0,0.0,65.0,5,0,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-08,0.0,0.0,0.0,65.0,5,0,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-09,0.0,0.0,0.0,65.0,5,0,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-10,0.0,0.0,0.0,49.0,5,0,65.0,65.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-11,45.0,65.0,45.0,49.0,26,21,65.0,45.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-12,65.0,65.0,65.0,65.0,38,12,65.0,45.0
+612624,IRELAND.LISBON.YES,Majority vote "yes" in Irish Referendum on Lisbon Treaty,2008-06-12,20.0,20.0,20.0,10.0,0,1,65.0,20.0

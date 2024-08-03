@@ -1,0 +1,14 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-19,0.0,0.0,0.0,50.0,0,0,0.0,0.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-20,94.0,94.0,94.0,92.0,10,10,94.0,94.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-21,0.0,0.0,0.0,92.0,10,0,94.0,94.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-22,0.0,0.0,0.0,92.0,10,0,94.0,94.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-23,92.0,92.0,92.0,95.0,12,2,94.0,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-24,0.0,0.0,0.0,95.0,12,0,94.0,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-25,96.8,96.8,96.8,96.8,62,50,96.8,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-26,0.0,0.0,0.0,96.8,62,0,96.8,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-27,98.0,98.0,98.0,96.8,62,1,98.0,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-28,0.0,0.0,0.0,96.8,62,0,98.0,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-02-29,0.0,0.0,0.0,96.8,62,0,98.0,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-03-01,0.0,0.0,0.0,96.8,62,0,98.0,92.0
+96152,DEM.KERRY.CA,John Kerry to win the California Primary,2004-03-02,94.8,99.0,94.8,96.8,258,202,99.0,92.0

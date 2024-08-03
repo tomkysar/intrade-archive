@@ -1,0 +1,10 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-05,,,,,0,0,,
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-06,,,,,0,0,,
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-07,,,,,0,0,,
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-08,0.1,0.1,0.1,0.1,5,5,0.1,0.1
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-09,,,,0.1,5,0,0.1,0.1
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-10,0.8,0.8,0.7,0.8,7,5,0.8,0.1
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-11,,,,0.8,7,0,0.8,0.1
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-12,0.4,0.4,0.4,0.4,12,5,0.8,0.1
+758352,MISS.PAUL,Ron Paul to win the 2012 Mississippi Primary,2012-03-13,0.3,0.3,0.1,0.1,29,17,0.8,0.1

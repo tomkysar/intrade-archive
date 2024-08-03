@@ -1,0 +1,26 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-08,0.0,0.0,0.0,20.0,0,0,0.0,0.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-09,67.0,71.0,67.0,20.0,14,14,71.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-10,0.0,0.0,0.0,20.0,14,0,71.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-11,0.0,0.0,0.0,0.0,14,0,71.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-12,0.0,0.0,0.0,71.0,14,0,71.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-13,69.1,69.1,69.1,71.0,14,1,71.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-14,69.0,74.0,69.0,69.0,16,9,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-15,0.0,0.0,0.0,69.0,16,0,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-16,0.0,0.0,0.0,69.0,16,0,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-17,73.0,73.0,73.0,71.0,41,25,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-18,0.0,0.0,0.0,71.0,41,0,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-19,0.0,0.0,0.0,72.0,41,0,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-20,0.0,0.0,0.0,70.0,41,0,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-21,73.0,73.0,73.0,73.0,42,1,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-22,71.0,71.0,70.0,71.0,52,20,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-23,0.0,0.0,0.0,71.0,52,0,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-24,67.2,67.2,67.2,71.0,62,10,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-25,69.0,69.0,68.5,68.0,68,6,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-26,67.2,67.2,67.2,68.0,78,10,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-27,67.2,67.2,67.0,68.0,95,27,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-02-28,69.5,69.5,69.5,68.0,100,5,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-03-01,69.5,69.5,69.5,68.0,101,1,74.0,67.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-03-02,69.0,74.8,64.5,64.5,133,43,74.8,64.5
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-03-03,68.0,72.0,64.0,64.0,240,116,74.8,64.0
+332646,SUPT.ACTSS.WEISZ,Rachel Weisz (The Constant Gardener) to Win,2006-03-04,64.5,67.5,64.1,65.0,270,80,74.8,64.0

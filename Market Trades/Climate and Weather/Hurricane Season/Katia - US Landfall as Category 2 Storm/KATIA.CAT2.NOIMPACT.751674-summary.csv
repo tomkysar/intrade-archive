@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+751674,KATIA.CAT2.NOIMPACT,Katia NOT to make first landfall as Category 2 storm (or higher) in the United States,2011-09-05,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+751674,KATIA.CAT2.NOIMPACT,Katia NOT to make first landfall as Category 2 storm (or higher) in the United States,2011-09-06,80.0,80.0,80.0,80.0,1,1,80.0,80.0
+751674,KATIA.CAT2.NOIMPACT,Katia NOT to make first landfall as Category 2 storm (or higher) in the United States,2011-09-07,94.0,95.0,94.0,95.0,5,4,95.0,80.0
+751674,KATIA.CAT2.NOIMPACT,Katia NOT to make first landfall as Category 2 storm (or higher) in the United States,2011-09-08,0.0,0.0,0.0,95.0,5,0,95.0,80.0
+751674,KATIA.CAT2.NOIMPACT,Katia NOT to make first landfall as Category 2 storm (or higher) in the United States,2011-09-09,0.0,0.0,0.0,95.0,5,0,95.0,80.0
+751674,KATIA.CAT2.NOIMPACT,Katia NOT to make first landfall as Category 2 storm (or higher) in the United States,2011-09-10,0.0,0.0,0.0,95.0,5,0,95.0,80.0

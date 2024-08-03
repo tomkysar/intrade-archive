@@ -1,0 +1,17 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-23,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-24,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-25,1.0,1.0,1.0,1.0,5,5,1.0,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-26,2.0,2.0,2.0,2.0,81,76,2.0,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-27,2.9,4.9,2.0,2.0,86,9,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-28,3.0,3.0,3.0,3.0,87,1,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-29,0.0,0.0,0.0,3.0,87,0,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-30,2.5,2.5,2.5,2.5,92,5,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-01-31,2.5,4.9,2.0,4.9,194,105,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-02-01,3.0,3.0,1.5,2.0,385,192,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-02-02,2.0,2.0,1.0,1.0,601,216,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-02-03,1.0,1.0,1.0,1.0,679,78,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-02-04,1.5,2.9,1.0,2.9,810,226,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-02-05,2.7,4.5,2.0,2.4,846,64,4.9,1.0
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-02-06,2.2,4.9,0.5,1.5,2106,1443,4.9,0.5
+756481,COLORADO.SANTORUM,Rick Santorum to win the 2012 Colorado Caucus,2012-02-07,1.5,99.9,1.5,99.5,5168,13962,99.9,0.5

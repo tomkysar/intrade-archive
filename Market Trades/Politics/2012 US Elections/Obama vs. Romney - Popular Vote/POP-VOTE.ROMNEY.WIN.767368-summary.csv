@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+767368,POP-VOTE.ROMNEY.WIN,Mitt Romney to win the popular vote,2012-11-02,54.0,58.0,54.0,55.0,90,90,58.0,54.0
+767368,POP-VOTE.ROMNEY.WIN,Mitt Romney to win the popular vote,2012-11-03,40.2,47.5,37.0,47.5,160,117,58.0,37.0
+767368,POP-VOTE.ROMNEY.WIN,Mitt Romney to win the popular vote,2012-11-04,47.0,47.2,41.0,43.5,274,121,58.0,37.0
+767368,POP-VOTE.ROMNEY.WIN,Mitt Romney to win the popular vote,2012-11-05,50.0,50.0,36.7,44.2,756,521,58.0,36.7
+767368,POP-VOTE.ROMNEY.WIN,Mitt Romney to win the popular vote,2012-11-06,37.7,44.7,0.2,0.2,1056,888,58.0,0.2
+767368,POP-VOTE.ROMNEY.WIN,Mitt Romney to win the popular vote,2012-11-07,0.1,0.1,0.1,0.1,1057,143,58.0,0.1
+767368,POP-VOTE.ROMNEY.WIN,Mitt Romney to win the popular vote,2012-11-08,0.1,4.4,0.1,0.1,1098,76,58.0,0.1

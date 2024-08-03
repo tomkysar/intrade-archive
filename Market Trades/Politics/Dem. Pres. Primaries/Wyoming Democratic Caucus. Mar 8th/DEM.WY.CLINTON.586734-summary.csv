@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+586734,DEM.WY.CLINTON,Hillary Clinton to Win,2008-03-05,10.0,15.0,3.0,10.0,65,75,15.0,3.0
+586734,DEM.WY.CLINTON,Hillary Clinton to Win,2008-03-06,10.0,10.0,4.9,5.2,136,96,15.0,3.0
+586734,DEM.WY.CLINTON,Hillary Clinton to Win,2008-03-07,5.2,10.0,4.0,10.0,167,59,15.0,3.0
+586734,DEM.WY.CLINTON,Hillary Clinton to Win,2008-03-07,6.0,6.0,0.9,0.1,0,376,15.0,0.9

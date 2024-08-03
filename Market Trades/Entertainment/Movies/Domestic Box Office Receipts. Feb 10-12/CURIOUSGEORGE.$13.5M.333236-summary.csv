@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+333236,CURIOUSGEORGE.$13.5M,Curious George to Gross over $13.5 Million in it's opening Weekend,2006-02-10,52.4,74.9,49.0,68.0,113,146,74.9,49.0
+333236,CURIOUSGEORGE.$13.5M,Curious George to Gross over $13.5 Million in it's opening Weekend,2006-02-11,51.0,72.0,51.0,0.0,118,31,74.9,49.0
+333236,CURIOUSGEORGE.$13.5M,Curious George to Gross over $13.5 Million in it's opening Weekend,2006-02-12,95.0,99.5,95.0,95.0,118,12,99.5,49.0
+333236,CURIOUSGEORGE.$13.5M,Curious George to Gross over $13.5 Million in it's opening Weekend,2006-02-13,0.0,0.0,0.0,95.0,118,0,99.5,49.0

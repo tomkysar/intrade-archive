@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+149765,MANCH.CAND.OVER$22M,The Manchurian Candidate to gross OVER $22M in opening weekend,2004-07-30,0.0,0.0,0.0,50.0,0,0,0.0,0.0
+149765,MANCH.CAND.OVER$22M,The Manchurian Candidate to gross OVER $22M in opening weekend,2004-07-31,50.0,50.1,50.0,33.0,5,5,50.1,50.0
+149765,MANCH.CAND.OVER$22M,The Manchurian Candidate to gross OVER $22M in opening weekend,2004-08-01,2.0,2.0,2.0,0.0,5,5,50.1,2.0
+149765,MANCH.CAND.OVER$22M,The Manchurian Candidate to gross OVER $22M in opening weekend,2004-08-02,0.0,0.0,0.0,0.0,5,0,50.1,2.0

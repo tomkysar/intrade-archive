@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+304123,JARHEAD.+$20M,Jarhead to gross OVER $20.0M in opening weekend,2005-11-04,60.0,85.0,60.0,85.0,40,40,85.0,60.0
+304123,JARHEAD.+$20M,Jarhead to gross OVER $20.0M in opening weekend,2005-11-05,99.0,99.0,99.0,99.0,37,25,99.0,60.0
+304123,JARHEAD.+$20M,Jarhead to gross OVER $20.0M in opening weekend,2005-11-06,0.0,0.0,0.0,99.0,37,0,99.0,60.0
+304123,JARHEAD.+$20M,Jarhead to gross OVER $20.0M in opening weekend,2005-11-07,0.0,0.0,0.0,99.0,37,0,99.0,60.0

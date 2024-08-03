@@ -1,0 +1,17 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-23,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-24,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-25,27.0,27.0,24.1,27.0,45,45,27.0,24.1
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-26,17.5,24.0,8.0,8.9,106,62,27.0,8.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-27,9.0,9.0,9.0,9.0,116,10,27.0,8.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-28,10.0,15.0,10.0,14.7,128,17,27.0,8.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-29,10.0,10.0,10.0,10.0,141,13,27.0,8.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-30,6.0,6.0,6.0,6.0,146,5,27.0,6.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-01-31,24.9,24.9,24.9,24.9,149,3,27.0,6.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-02-01,7.0,14.9,6.3,7.0,311,234,27.0,6.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-02-02,8.8,8.8,4.0,6.0,459,215,27.0,4.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-02-03,6.0,6.0,4.0,4.0,557,98,27.0,4.0
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-02-04,4.0,4.0,2.2,2.5,666,158,27.0,2.2
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-02-05,2.5,3.0,0.1,0.2,699,58,27.0,0.1
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-02-06,0.2,0.2,0.2,0.2,784,85,27.0,0.1
+756479,COLORADO.GINGRICH,Newt Gingrich to win the 2012 Colorado Caucus,2012-02-07,0.1,0.8,0.1,0.5,959,617,27.0,0.1

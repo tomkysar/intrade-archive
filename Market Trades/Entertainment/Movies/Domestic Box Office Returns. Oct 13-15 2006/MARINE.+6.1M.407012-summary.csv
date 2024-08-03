@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+407012,MARINE.+6.1M,The Marine to gross OVER $6.1M in opening weekend,2006-10-13,70.0,70.0,70.0,0.0,17,17,70.0,70.0
+407012,MARINE.+6.1M,The Marine to gross OVER $6.1M in opening weekend,2006-10-14,0.0,0.0,0.0,0.0,17,0,70.0,70.0
+407012,MARINE.+6.1M,The Marine to gross OVER $6.1M in opening weekend,2006-10-15,0.0,0.0,0.0,0.0,0,0,80.0,70.0
+407012,MARINE.+6.1M,The Marine to gross OVER $6.1M in opening weekend,2006-10-15,80.0,80.0,80.0,0.0,20,20,80.0,70.0

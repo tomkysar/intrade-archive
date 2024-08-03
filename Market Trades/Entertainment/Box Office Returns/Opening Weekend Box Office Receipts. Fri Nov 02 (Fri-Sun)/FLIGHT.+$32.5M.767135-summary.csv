@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-10-26,,,,,0,0,,
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-10-27,,,,,0,0,,
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-10-28,,,,,0,0,,
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-10-29,,,,,0,0,,
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-10-30,,,,,0,0,,
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-10-31,60.0,60.0,53.0,53.0,35,35,60.0,53.0
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-11-01,51.0,51.0,50.0,51.0,65,30,60.0,50.0
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-11-02,1.0,1.0,1.0,1.0,65,33,60.0,1.0
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-11-03,0.5,10.0,0.5,0.5,98,45,60.0,0.5
+767135,FLIGHT.+$32.5M,Flight to gross OVER $32.5M in opening weekend,2012-11-04,0.5,0.5,0.5,0.5,98,20,60.0,0.5

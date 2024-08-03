@@ -1,0 +1,15 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-04,88.0,88.0,88.0,0.0,2,2,88.0,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-05,0.0,0.0,0.0,40.0,2,0,88.0,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-06,90.0,90.0,89.9,90.0,27,27,90.0,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-07,90.0,97.0,90.0,86.0,65,48,97.0,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-08,0.0,0.0,0.0,86.0,65,0,97.0,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-09,94.9,94.9,94.9,88.0,88,23,97.0,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-10,94.0,94.0,94.0,95.0,93,5,97.0,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-11,97.9,97.9,97.9,97.9,94,1,97.9,88.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-12,95.0,95.0,69.0,95.0,198,141,97.9,69.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-13,90.0,96.0,90.0,94.0,273,83,97.9,69.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-14,95.0,95.0,95.0,94.0,323,50,97.9,69.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-15,97.0,97.0,97.0,94.0,322,100,97.9,69.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-16,98.5,98.5,97.0,0.0,0,2,99.5,69.0
+90494,DEM.KERRY.WI,John Kerry to win the Wisconsin Primary,2004-02-16,99.5,99.5,99.5,95.0,322,5,99.5,69.0

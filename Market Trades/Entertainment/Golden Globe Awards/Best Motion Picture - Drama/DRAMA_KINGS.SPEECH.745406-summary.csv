@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+745406,DRAMA:KINGS.SPEECH,The King's Speech to Win,2011-01-11,42.0,42.0,42.0,42.0,10,10,42.0,42.0
+745406,DRAMA:KINGS.SPEECH,The King's Speech to Win,2011-01-12,38.0,38.0,38.0,38.0,15,5,42.0,38.0
+745406,DRAMA:KINGS.SPEECH,The King's Speech to Win,2011-01-13,0.0,0.0,0.0,38.0,15,0,42.0,38.0
+745406,DRAMA:KINGS.SPEECH,The King's Speech to Win,2011-01-14,0.0,0.0,0.0,38.0,15,0,42.0,38.0
+745406,DRAMA:KINGS.SPEECH,The King's Speech to Win,2011-01-15,0.0,0.0,0.0,38.0,15,0,42.0,38.0
+745406,DRAMA:KINGS.SPEECH,The King's Speech to Win,2011-01-16,35.0,36.0,30.0,30.0,46,31,42.0,30.0

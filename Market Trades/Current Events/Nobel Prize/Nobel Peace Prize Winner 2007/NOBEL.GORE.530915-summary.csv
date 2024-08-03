@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+530915,NOBEL.GORE,Al Gore  to Win,2007-10-06,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+530915,NOBEL.GORE,Al Gore  to Win,2007-10-07,17.0,23.0,17.0,17.0,102,102,23.0,17.0
+530915,NOBEL.GORE,Al Gore  to Win,2007-10-08,30.0,50.0,30.0,50.0,227,226,50.0,17.0
+530915,NOBEL.GORE,Al Gore  to Win,2007-10-09,52.0,52.0,31.0,31.0,393,174,52.0,17.0
+530915,NOBEL.GORE,Al Gore  to Win,2007-10-10,38.0,50.0,38.0,48.0,532,139,52.0,17.0
+530915,NOBEL.GORE,Al Gore  to Win,2007-10-11,47.9,55.0,35.0,35.0,760,258,55.0,17.0

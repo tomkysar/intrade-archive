@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+113660,HELLBOY.WKEND+24.5M,Hellboy to gross OVER $24.5M in opening weekend,2004-04-02,50.0,51.0,50.0,50.0,18,18,51.0,50.0
+113660,HELLBOY.WKEND+24.5M,Hellboy to gross OVER $24.5M in opening weekend,2004-04-03,60.0,65.0,60.0,60.0,8,12,65.0,50.0
+113660,HELLBOY.WKEND+24.5M,Hellboy to gross OVER $24.5M in opening weekend,2004-04-04,0.0,0.0,0.0,0.0,8,0,65.0,50.0
+113660,HELLBOY.WKEND+24.5M,Hellboy to gross OVER $24.5M in opening weekend,2004-04-05,2.0,2.0,2.0,0.0,8,1,65.0,2.0

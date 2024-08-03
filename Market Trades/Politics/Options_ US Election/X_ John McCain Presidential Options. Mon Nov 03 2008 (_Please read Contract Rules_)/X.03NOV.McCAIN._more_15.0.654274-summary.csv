@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+654274,X.03NOV.McCAIN.>15.0,2008.PRES.McCAIN to be HIGHER than 15.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-10-30,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+654274,X.03NOV.McCAIN.>15.0,2008.PRES.McCAIN to be HIGHER than 15.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-10-31,45.0,45.0,45.0,45.0,1,1,45.0,45.0
+654274,X.03NOV.McCAIN.>15.0,2008.PRES.McCAIN to be HIGHER than 15.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-11-01,0.0,0.0,0.0,45.0,1,0,45.0,45.0
+654274,X.03NOV.McCAIN.>15.0,2008.PRES.McCAIN to be HIGHER than 15.0 on Mon 03 Nov 2008 (VWAP 9:00am-12:00pm ET),2008-11-02,0.0,0.0,0.0,0.0,1,0,45.0,45.0

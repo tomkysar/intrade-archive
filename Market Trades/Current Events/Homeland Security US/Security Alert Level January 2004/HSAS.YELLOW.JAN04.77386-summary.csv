@@ -1,0 +1,17 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2003-12-30,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2003-12-31,0.0,0.0,0.0,20.0,0,0,0.0,0.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-01,60.0,60.0,60.0,15.0,20,20,60.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-02,61.0,61.0,61.0,65.0,21,1,61.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-03,0.0,0.0,0.0,62.0,21,0,61.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-04,0.0,0.0,0.0,62.0,21,0,61.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-05,0.0,0.0,0.0,62.0,21,0,61.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-06,0.0,0.0,0.0,62.0,21,0,61.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-07,65.0,80.0,65.0,75.0,137,137,80.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-08,70.0,80.0,70.0,70.0,145,22,80.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-09,85.0,91.0,85.0,91.0,152,14,91.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-10,0.0,0.0,0.0,91.0,152,0,91.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-11,0.0,0.0,0.0,91.0,152,0,91.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-12,0.0,0.0,0.0,91.0,152,0,91.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-01-13,0.0,0.0,0.0,91.0,152,0,91.0,60.0
+77386,HSAS.YELLOW.JAN04,Homeland Security Advisory System to be Yellow(Condition Elevated) on 31 Jan 2004,2004-11-07,0.0,0.0,0.0,0.0,0,0,91.0,60.0

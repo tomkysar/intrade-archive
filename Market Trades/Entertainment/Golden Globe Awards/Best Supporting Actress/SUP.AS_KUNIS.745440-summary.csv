@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+745440,SUP.AS:KUNIS,Mila Kunis (Black Swan) to Win,2011-01-11,16.0,16.0,16.0,16.0,1,1,16.0,16.0
+745440,SUP.AS:KUNIS,Mila Kunis (Black Swan) to Win,2011-01-12,7.0,7.0,4.5,4.5,20,20,16.0,4.5
+745440,SUP.AS:KUNIS,Mila Kunis (Black Swan) to Win,2011-01-13,12.0,12.0,12.0,12.0,21,1,16.0,4.5
+745440,SUP.AS:KUNIS,Mila Kunis (Black Swan) to Win,2011-01-14,9.0,9.0,9.0,9.0,22,1,16.0,4.5
+745440,SUP.AS:KUNIS,Mila Kunis (Black Swan) to Win,2011-01-15,0.0,0.0,0.0,9.0,22,0,16.0,4.5
+745440,SUP.AS:KUNIS,Mila Kunis (Black Swan) to Win,2011-01-16,0.0,0.0,0.0,9.0,22,0,16.0,4.5

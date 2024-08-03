@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-19,80.0,80.0,80.0,70.0,2,2,80.0,80.0
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-20,0.0,0.0,0.0,70.0,2,0,80.0,80.0
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-21,0.0,0.0,0.0,70.0,2,0,80.0,80.0
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-22,80.0,80.0,80.0,70.0,14,12,80.0,80.0
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-23,0.0,0.0,0.0,70.0,14,0,80.0,80.0
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-24,0.0,0.0,0.0,70.0,14,0,80.0,80.0
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-25,82.0,82.0,82.0,70.0,19,5,82.0,80.0
+204016,FOREIGN.SEAINSIDE,The Sea Inside to Win Best Foreign Language Film Oscar,2005-02-26,82.0,83.0,82.0,70.1,49,30,83.0,80.0

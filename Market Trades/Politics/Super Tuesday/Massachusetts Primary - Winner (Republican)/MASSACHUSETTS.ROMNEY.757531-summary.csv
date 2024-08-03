@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-15,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-16,90.0,90.0,90.0,90.0,20,20,90.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-17,98.0,98.0,98.0,98.0,21,1,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-18,0.0,0.0,0.0,98.0,21,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-19,0.0,0.0,0.0,98.0,21,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-20,0.0,0.0,0.0,98.0,21,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-21,0.0,0.0,0.0,98.0,21,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-22,97.5,97.5,97.3,97.5,121,100,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-23,0.0,0.0,0.0,97.5,121,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-24,97.8,97.8,97.8,97.8,131,10,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-25,0.0,0.0,0.0,97.8,131,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-26,0.0,0.0,0.0,97.8,131,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-27,0.0,0.0,0.0,97.8,131,0,98.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-28,97.0,99.0,97.0,99.0,140,11,99.0,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-02-29,99.6,99.6,97.5,97.5,152,37,99.6,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-03-01,99.0,99.0,99.0,99.0,142,10,99.6,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-03-02,99.0,99.7,99.0,99.7,251,109,99.7,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-03-03,99.7,99.7,99.7,99.7,252,1,99.7,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-03-04,,,,99.7,252,0,99.7,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-03-05,,,,99.7,252,0,99.7,90.0
+757531,MASSACHUSETTS.ROMNEY,Mitt Romney to win the 2012 Massachusetts Primary,2012-03-06,99.7,99.9,99.5,99.9,266,36,99.9,90.0

@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+121013,FROM13-30.WKEND+18.5,From 13 To 30 to gross OVER $18.5M in opening weekend,2004-04-23,0.0,0.0,0.0,42.0,0,0,0.0,0.0
+121013,FROM13-30.WKEND+18.5,From 13 To 30 to gross OVER $18.5M in opening weekend,2004-04-24,55.1,80.0,55.1,0.0,14,14,80.0,55.1
+121013,FROM13-30.WKEND+18.5,From 13 To 30 to gross OVER $18.5M in opening weekend,2004-04-25,0.0,0.0,0.0,80.0,14,0,80.0,55.1
+121013,FROM13-30.WKEND+18.5,From 13 To 30 to gross OVER $18.5M in opening weekend,2004-04-26,0.0,0.0,0.0,80.0,14,0,80.0,55.1

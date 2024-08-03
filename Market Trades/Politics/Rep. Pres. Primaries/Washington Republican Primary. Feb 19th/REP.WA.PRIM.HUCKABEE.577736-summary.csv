@@ -1,0 +1,14 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-07,0.0,0.0,0.0,2.5,0,0,0.0,0.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-08,0.0,0.0,0.0,2.5,0,0,0.0,0.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-09,5.0,5.0,5.0,2.5,20,20,5.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-10,0.0,0.0,0.0,2.5,20,0,5.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-11,10.0,10.0,10.0,2.5,40,20,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-12,10.0,10.0,10.0,10.0,47,7,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-13,10.0,10.0,10.0,10.0,50,3,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-14,10.0,10.0,10.0,10.0,60,10,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-15,0.0,0.0,0.0,10.0,60,0,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-16,5.0,5.0,5.0,5.0,63,5,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-17,0.0,0.0,0.0,5.0,63,0,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-18,7.0,7.0,7.0,7.0,88,25,10.0,5.0
+577736,REP.WA.PRIM.HUCKABEE,Mike Huckabee to Win,2008-02-19,7.0,9.0,1.1,4.5,183,126,10.0,1.1

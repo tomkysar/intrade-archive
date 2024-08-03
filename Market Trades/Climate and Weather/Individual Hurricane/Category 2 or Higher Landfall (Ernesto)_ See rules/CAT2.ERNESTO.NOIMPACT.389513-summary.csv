@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+389513,CAT2.ERNESTO.NOIMPACT,Hurricane Ernesto NOT to make first Landfall as Category 2 or Higher in any of the named States,2006-08-27,55.0,80.0,55.0,0.0,2,3,80.0,55.0
+389513,CAT2.ERNESTO.NOIMPACT,Hurricane Ernesto NOT to make first Landfall as Category 2 or Higher in any of the named States,2006-08-28,60.0,86.0,60.0,86.0,33,87,86.0,55.0
+389513,CAT2.ERNESTO.NOIMPACT,Hurricane Ernesto NOT to make first Landfall as Category 2 or Higher in any of the named States,2006-08-29,95.0,99.0,95.0,95.0,37,19,99.0,55.0

@@ -1,0 +1,12 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-15,0.0,0.0,0.0,1.0,0,0,0.0,0.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-16,2.0,2.1,2.0,0.2,10,10,2.1,2.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-17,0.0,0.0,0.0,0.2,10,0,2.1,2.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-18,1.0,1.0,1.0,4.5,15,5,2.1,1.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-19,0.0,0.0,0.0,1.5,15,0,2.1,1.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-20,0.0,0.0,0.0,0.1,15,0,2.1,1.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-21,1.0,2.0,1.0,1.0,26,13,2.1,1.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-22,2.0,2.0,1.1,1.1,85,59,2.1,1.0
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-23,1.5,2.0,0.4,1.0,109,46,2.1,0.4
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-24,0.0,0.0,0.0,0.1,0,0,2.1,0.4
+163526,JEANNE.VIRGINIA,Jeanne to make landfall in Virginia,2004-09-24,0.8,1.9,0.8,0.1,108,21,2.1,0.4

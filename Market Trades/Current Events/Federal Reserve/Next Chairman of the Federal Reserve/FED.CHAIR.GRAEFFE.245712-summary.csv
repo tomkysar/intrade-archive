@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+245712,FED.CHAIR.GRAEFFE,Alex Graeffe to be announced as Next Chairman of the Federal Reserve,2005-05-20,0.5,12.0,0.5,12.0,0,2,12.0,0.5
+245712,FED.CHAIR.GRAEFFE,Alex Graeffe to be announced as Next Chairman of the Federal Reserve,2005-05-21,0.0,0.0,0.0,12.0,0,0,12.0,0.5
+245712,FED.CHAIR.GRAEFFE,Alex Graeffe to be announced as Next Chairman of the Federal Reserve,2005-05-22,0.0,0.0,0.0,12.0,0,0,12.0,0.5

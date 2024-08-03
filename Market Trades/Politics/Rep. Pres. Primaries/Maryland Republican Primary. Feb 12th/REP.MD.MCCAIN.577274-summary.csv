@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-06,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-07,0.0,0.0,0.0,90.0,0,0,0.0,0.0
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-08,0.0,0.0,0.0,90.0,0,0,0.0,0.0
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-09,80.0,85.0,80.0,90.0,30,30,85.0,80.0
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-10,95.0,95.0,95.0,87.5,30,10,95.0,80.0
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-11,96.7,96.7,96.5,96.5,54,24,96.7,80.0
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-12,95.9,99.5,90.1,95.9,96,81,99.5,80.0
+577274,REP.MD.MCCAIN,John McCain to Win,2008-02-12,99.5,99.6,99.5,99.6,0,65,99.6,80.0

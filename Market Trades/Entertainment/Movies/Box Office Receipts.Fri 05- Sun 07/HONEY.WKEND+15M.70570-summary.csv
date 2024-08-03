@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+70570,HONEY.WKEND+15M,Honey to gross OVER $15M in opening weekend,2003-12-05,0.0,0.0,0.0,30.0,0,0,0.0,0.0
+70570,HONEY.WKEND+15M,Honey to gross OVER $15M in opening weekend,2003-12-06,19.0,20.0,19.0,19.0,35,35,20.0,19.0
+70570,HONEY.WKEND+15M,Honey to gross OVER $15M in opening weekend,2003-12-07,19.0,19.0,19.0,19.0,40,5,20.0,19.0
+70570,HONEY.WKEND+15M,Honey to gross OVER $15M in opening weekend,2003-12-08,0.0,0.0,0.0,19.0,40,0,20.0,19.0

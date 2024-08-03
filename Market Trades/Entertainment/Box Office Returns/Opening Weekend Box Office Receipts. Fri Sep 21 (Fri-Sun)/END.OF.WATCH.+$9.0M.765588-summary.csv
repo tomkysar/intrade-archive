@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-14,45.0,60.0,45.0,60.0,50,50,60.0,45.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-15,,,,60.0,50,0,60.0,45.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-16,,,,60.0,50,0,60.0,45.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-17,,,,60.0,50,0,60.0,45.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-18,,,,60.0,50,0,60.0,45.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-19,40.0,40.0,40.0,40.0,51,1,60.0,40.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-20,,,,40.0,51,0,60.0,40.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-21,85.0,95.0,85.0,95.0,51,5,95.0,40.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-22,99.0,99.0,99.0,99.0,5,49,99.0,40.0
+765588,END.OF.WATCH.+$9.0M,End of Watch to gross OVER $9.0M in opening weekend,2012-09-23,99.9,99.9,99.9,99.9,5,1,99.9,40.0

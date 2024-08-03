@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-15,60.0,60.0,50.0,50.0,3,3,60.0,50.0
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-16,7.5,7.5,7.5,7.5,3,3,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-17,11.0,11.0,11.0,11.0,6,3,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-18,11.0,11.0,11.0,11.0,11,5,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-19,0.0,0.0,0.0,11.0,11,0,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-20,11.1,11.1,11.1,11.1,16,5,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-21,0.0,0.0,0.0,11.1,16,0,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-22,30.0,44.8,30.0,44.8,26,11,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-23,35.1,35.2,35.0,35.0,32,7,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-24,0.0,0.0,0.0,35.0,32,0,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-25,0.0,0.0,0.0,35.0,32,0,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-26,25.0,25.0,25.0,25.0,92,60,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-27,34.9,34.9,15.5,15.5,123,46,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-28,25.0,29.7,25.0,29.7,122,10,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-02-29,20.0,21.0,10.5,12.5,466,363,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-03-01,14.0,14.0,10.0,13.4,609,191,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-03-02,13.5,13.5,10.0,10.0,624,222,60.0,7.5
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-03-03,10.0,18.0,5.2,15.0,736,144,60.0,5.2
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-03-04,13.0,13.0,2.0,4.5,1218,714,60.0,2.0
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-03-05,3.9,19.0,3.9,11.0,2297,1567,60.0,2.0
+757549,TENNESSEE.GINGRICH,Newt Gingrich to win the 2012 Tennessee Primary,2012-03-06,13.8,14.5,0.1,0.1,2513,1347,60.0,0.1

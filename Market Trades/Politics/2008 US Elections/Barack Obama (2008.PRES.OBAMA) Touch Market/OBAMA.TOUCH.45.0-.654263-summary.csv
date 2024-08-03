@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+654263,OBAMA.TOUCH.45.0-,2008.PRES.OBAMA contract to trade at 45.0 or lower before contract is expired,2008-10-30,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+654263,OBAMA.TOUCH.45.0-,2008.PRES.OBAMA contract to trade at 45.0 or lower before contract is expired,2008-10-31,17.0,17.0,17.0,17.0,10,10,17.0,17.0
+654263,OBAMA.TOUCH.45.0-,2008.PRES.OBAMA contract to trade at 45.0 or lower before contract is expired,2008-11-01,0.0,0.0,0.0,17.0,10,0,17.0,17.0
+654263,OBAMA.TOUCH.45.0-,2008.PRES.OBAMA contract to trade at 45.0 or lower before contract is expired,2008-11-02,0.0,0.0,0.0,17.0,10,0,17.0,17.0
+654263,OBAMA.TOUCH.45.0-,2008.PRES.OBAMA contract to trade at 45.0 or lower before contract is expired,2008-11-03,0.0,0.0,0.0,17.0,10,0,17.0,17.0
+654263,OBAMA.TOUCH.45.0-,2008.PRES.OBAMA contract to trade at 45.0 or lower before contract is expired,2008-11-04,0.0,0.0,0.0,0.0,10,0,17.0,17.0

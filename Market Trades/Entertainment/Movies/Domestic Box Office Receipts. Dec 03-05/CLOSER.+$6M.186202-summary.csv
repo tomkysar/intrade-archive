@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+186202,CLOSER.+$6M,Closer to gross OVER $6.0M in opening weekend,2004-12-03,39.0,39.0,5.0,20.0,114,115,39.0,5.0
+186202,CLOSER.+$6M,Closer to gross OVER $6.0M in opening weekend,2004-12-04,23.5,98.8,16.0,0.0,107,81,98.8,5.0
+186202,CLOSER.+$6M,Closer to gross OVER $6.0M in opening weekend,2004-12-05,98.8,99.0,98.0,0.0,93,50,99.0,5.0
+186202,CLOSER.+$6M,Closer to gross OVER $6.0M in opening weekend,2004-12-06,98.0,99.7,98.0,98.0,89,14,99.7,5.0

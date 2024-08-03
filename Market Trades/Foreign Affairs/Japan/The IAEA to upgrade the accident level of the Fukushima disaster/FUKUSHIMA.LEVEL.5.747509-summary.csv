@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+747509,FUKUSHIMA.LEVEL.5,The IAEA to upgrade Fukushima to a Level 5 accident before midnight ET 31 Mar 2011,2011-03-14,25.0,97.5,21.0,97.5,107,156,97.5,21.0
+747509,FUKUSHIMA.LEVEL.5,The IAEA to upgrade Fukushima to a Level 5 accident before midnight ET 31 Mar 2011,2011-03-15,97.5,97.5,93.0,94.0,188,101,97.5,21.0
+747509,FUKUSHIMA.LEVEL.5,The IAEA to upgrade Fukushima to a Level 5 accident before midnight ET 31 Mar 2011,2011-03-16,91.0,92.0,61.0,74.5,369,239,97.5,21.0
+747509,FUKUSHIMA.LEVEL.5,The IAEA to upgrade Fukushima to a Level 5 accident before midnight ET 31 Mar 2011,2011-03-17,70.0,76.0,51.0,52.5,381,120,97.5,21.0

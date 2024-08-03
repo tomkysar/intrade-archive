@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-08,25.0,25.0,25.0,0.0,100,100,25.0,25.0
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-09,45.0,70.0,40.0,46.0,453,571,70.0,25.0
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-10,89.9,89.9,65.0,78.0,501,88,89.9,25.0
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-11,89.9,89.9,61.0,71.0,506,264,89.9,25.0
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-12,75.0,76.9,56.1,60.0,552,117,89.9,25.0
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-13,56.1,68.0,20.9,51.1,699,309,89.9,20.9
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-14,36.9,36.9,20.0,25.0,745,496,89.9,20.0
+161866,IVAN.FLORIDA,Ivan to make landfall in Florida,2004-09-15,27.2,39.0,0.5,4.5,1026,2102,89.9,0.5

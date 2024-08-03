@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+678204,SWINE.FLU.US.JUN09.100+,100 or more cases of A/H1N1 Swine Flu to be confirmed in the US before midnight ET on 30 Jun 2009,2009-04-27,85.0,85.0,85.0,85.0,1,1,85.0,85.0
+678204,SWINE.FLU.US.JUN09.100+,100 or more cases of A/H1N1 Swine Flu to be confirmed in the US before midnight ET on 30 Jun 2009,2009-04-28,95.0,95.0,90.0,90.0,9,8,95.0,85.0
+678204,SWINE.FLU.US.JUN09.100+,100 or more cases of A/H1N1 Swine Flu to be confirmed in the US before midnight ET on 30 Jun 2009,2009-04-29,95.0,96.0,95.0,95.0,18,14,96.0,85.0

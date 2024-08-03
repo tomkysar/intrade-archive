@@ -1,0 +1,17 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-23,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-24,27.5,49.0,27.5,49.0,57,57,49.0,27.5
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-25,40.0,55.0,25.0,25.0,191,139,55.0,25.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-26,45.0,45.0,15.0,15.0,276,162,55.0,15.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-27,14.0,14.0,14.0,14.0,301,25,55.0,14.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-28,18.0,21.0,14.0,14.0,314,63,55.0,14.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-29,20.0,20.0,15.0,19.9,338,64,55.0,14.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-30,15.0,20.1,15.0,18.1,396,66,55.0,14.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-01-31,18.0,18.1,10.0,10.0,426,70,55.0,10.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-02-01,14.0,14.9,10.0,14.0,456,63,55.0,10.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-02-02,19.8,22.0,10.1,22.0,623,300,55.0,10.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-02-03,17.5,22.5,12.0,22.5,663,127,55.0,10.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-02-04,12.1,12.1,5.0,9.8,865,263,55.0,5.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-02-05,5.5,8.9,1.0,1.6,1069,540,55.0,1.0
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-02-06,2.5,3.6,0.1,0.4,2577,1839,55.0,0.1
+756484,MINNESOTA.GINGRICH,Newt Gingrich to win the 2012 Minnesota Caucus,2012-02-07,0.8,1.4,0.1,0.1,3308,1510,55.0,0.1

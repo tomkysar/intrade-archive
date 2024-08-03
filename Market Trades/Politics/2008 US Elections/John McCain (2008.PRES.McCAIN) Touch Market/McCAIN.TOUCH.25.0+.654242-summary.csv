@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+654242,McCAIN.TOUCH.25.0+,2008.PRES.McCAIN contract to trade at 25.0 or higher before contract is expired,2008-10-30,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+654242,McCAIN.TOUCH.25.0+,2008.PRES.McCAIN contract to trade at 25.0 or higher before contract is expired,2008-10-31,30.0,30.0,30.0,0.0,10,10,30.0,30.0
+654242,McCAIN.TOUCH.25.0+,2008.PRES.McCAIN contract to trade at 25.0 or higher before contract is expired,2008-11-01,25.0,25.0,25.0,0.0,20,10,30.0,25.0
+654242,McCAIN.TOUCH.25.0+,2008.PRES.McCAIN contract to trade at 25.0 or higher before contract is expired,2008-11-02,0.0,0.0,0.0,35.0,20,0,30.0,25.0
+654242,McCAIN.TOUCH.25.0+,2008.PRES.McCAIN contract to trade at 25.0 or higher before contract is expired,2008-11-03,0.0,0.0,0.0,35.0,20,0,30.0,25.0
+654242,McCAIN.TOUCH.25.0+,2008.PRES.McCAIN contract to trade at 25.0 or higher before contract is expired,2008-11-04,0.0,0.0,0.0,0.1,20,0,30.0,25.0

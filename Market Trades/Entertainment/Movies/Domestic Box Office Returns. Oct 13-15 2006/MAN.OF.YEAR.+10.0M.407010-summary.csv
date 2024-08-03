@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+407010,MAN.OF.YEAR.+10.0M,Man of the Year to gross OVER $10.0M in opening weekend,2006-10-13,40.0,90.0,40.0,0.0,45,125,90.0,40.0
+407010,MAN.OF.YEAR.+10.0M,Man of the Year to gross OVER $10.0M in opening weekend,2006-10-14,50.0,50.0,50.0,0.0,55,10,90.0,40.0
+407010,MAN.OF.YEAR.+10.0M,Man of the Year to gross OVER $10.0M in opening weekend,2006-10-15,0.0,0.0,0.0,0.0,0,0,98.5,40.0
+407010,MAN.OF.YEAR.+10.0M,Man of the Year to gross OVER $10.0M in opening weekend,2006-10-15,98.5,98.5,98.5,0.0,55,13,98.5,40.0

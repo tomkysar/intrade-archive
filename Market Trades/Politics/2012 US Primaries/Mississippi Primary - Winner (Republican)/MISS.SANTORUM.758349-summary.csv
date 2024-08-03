@@ -1,0 +1,10 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-05,,,,,0,0,,
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-06,,,,,0,0,,
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-07,65.0,65.0,37.6,50.0,157,177,65.0,37.6
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-08,52.0,77.5,52.0,73.5,821,770,77.5,37.6
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-09,73.5,79.9,16.0,34.1,1374,1272,79.9,16.0
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-10,34.1,40.0,10.0,19.7,1960,980,79.9,10.0
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-11,19.7,26.9,14.1,17.0,2526,880,79.9,10.0
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-12,16.0,18.2,3.0,7.9,2815,1185,79.9,3.0
+758349,MISS.SANTORUM,Rick Santorum to win the 2012 Mississippi Primary,2012-03-13,7.7,99.9,2.0,99.8,6292,12208,99.9,2.0

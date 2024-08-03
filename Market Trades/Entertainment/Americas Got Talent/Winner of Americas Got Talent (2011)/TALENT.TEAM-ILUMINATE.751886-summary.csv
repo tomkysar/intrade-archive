@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+751886,TALENT.TEAM-ILUMINATE,Team iLuminate to win America's Got Talent,2011-09-09,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+751886,TALENT.TEAM-ILUMINATE,Team iLuminate to win America's Got Talent,2011-09-10,55.0,55.0,55.0,55.0,1,1,55.0,55.0
+751886,TALENT.TEAM-ILUMINATE,Team iLuminate to win America's Got Talent,2011-09-11,56.0,58.0,56.0,58.0,13,13,58.0,55.0
+751886,TALENT.TEAM-ILUMINATE,Team iLuminate to win America's Got Talent,2011-09-12,56.0,56.0,56.0,56.0,18,5,58.0,55.0
+751886,TALENT.TEAM-ILUMINATE,Team iLuminate to win America's Got Talent,2011-09-13,60.0,64.0,60.0,64.0,28,12,64.0,55.0
+751886,TALENT.TEAM-ILUMINATE,Team iLuminate to win America's Got Talent,2011-09-14,58.0,58.0,58.0,58.0,41,13,64.0,55.0
+751886,TALENT.TEAM-ILUMINATE,Team iLuminate to win America's Got Talent,2011-09-15,0.0,0.0,0.0,58.0,41,0,64.0,55.0

@@ -1,0 +1,16 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-21,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-22,50.0,50.0,50.0,0.0,10,10,50.0,50.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-23,0.0,0.0,0.0,0.0,10,0,50.0,50.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-24,50.5,50.5,50.5,0.0,16,6,50.5,50.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-25,51.0,51.0,51.0,51.0,16,10,51.0,50.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-26,0.0,0.0,0.0,51.0,16,0,51.0,50.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-27,0.0,0.0,0.0,37.5,16,0,51.0,50.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-28,0.0,0.0,0.0,37.5,16,0,51.0,50.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-29,39.0,50.0,39.0,37.5,96,85,51.0,39.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-30,50.0,50.0,30.0,30.5,139,45,51.0,30.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-01-31,27.5,27.5,27.5,27.5,149,10,51.0,27.5
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-02-01,20.0,23.0,20.0,21.5,145,6,51.0,20.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-02-02,0.0,0.0,0.0,21.5,145,0,51.0,20.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-02-03,20.0,39.0,20.0,20.0,204,60,51.0,20.0
+571742,DEM.KS.CLINTON,Hillary Clinton to Win,2008-02-04,14.0,14.0,14.0,14.0,204,10,51.0,14.0

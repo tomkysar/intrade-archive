@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-15,65.0,65.0,65.0,65.0,20,20,65.0,65.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-16,70.0,70.0,70.0,70.0,30,10,70.0,65.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-17,0.0,0.0,0.0,70.0,30,0,70.0,65.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-18,51.0,51.0,51.0,51.0,33,3,70.0,51.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-19,66.9,69.9,66.7,66.7,45,13,70.0,51.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-20,57.1,57.3,57.1,57.1,55,14,70.0,51.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-21,57.0,64.6,50.0,50.0,175,159,70.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-22,50.0,64.9,50.0,52.1,252,105,70.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-23,59.7,71.0,57.0,61.0,585,374,71.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-24,61.4,74.9,60.1,74.8,677,111,74.9,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-25,74.6,74.6,72.9,73.1,686,16,74.9,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-26,70.3,79.9,70.2,79.9,627,109,79.9,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-27,75.1,85.0,75.0,75.0,671,101,85.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-28,72.1,76.1,71.0,71.0,784,135,85.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-02-29,71.0,90.0,71.0,88.0,945,181,90.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-03-01,88.0,88.0,80.3,80.3,954,31,90.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-03-02,86.9,90.6,84.5,90.5,1104,283,90.6,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-03-03,86.2,97.9,86.2,96.9,1204,276,97.9,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-03-04,94.4,97.7,93.5,96.6,1611,573,97.9,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-03-05,97.6,99.0,97.0,97.5,1657,227,99.0,50.0
+757524,GEORGIA.GINGRICH,Newt Gingrich to win the 2012 Georgia Primary,2012-03-06,98.0,99.9,97.0,99.9,1781,426,99.9,50.0

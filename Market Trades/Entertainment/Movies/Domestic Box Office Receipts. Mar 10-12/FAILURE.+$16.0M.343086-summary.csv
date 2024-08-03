@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+343086,FAILURE.+$16.0M,Failure to Launch to gross OVER $16.0M in opening weekend,2006-03-10,76.0,90.0,76.0,0.0,52,52,90.0,76.0
+343086,FAILURE.+$16.0M,Failure to Launch to gross OVER $16.0M in opening weekend,2006-03-11,80.0,99.6,80.0,98.5,64,24,99.6,76.0
+343086,FAILURE.+$16.0M,Failure to Launch to gross OVER $16.0M in opening weekend,2006-03-12,99.8,99.8,99.8,98.5,60,4,99.8,76.0
+343086,FAILURE.+$16.0M,Failure to Launch to gross OVER $16.0M in opening weekend,2006-03-13,99.7,99.7,99.7,98.5,35,25,99.8,76.0

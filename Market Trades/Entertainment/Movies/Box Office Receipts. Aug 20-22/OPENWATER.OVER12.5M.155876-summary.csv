@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+155876,OPENWATER.OVER12.5M,Open Water to gross OVER $12.5M in opening weekend,2004-08-20,0.0,0.0,0.0,50.0,0,0,0.0,0.0
+155876,OPENWATER.OVER12.5M,Open Water to gross OVER $12.5M in opening weekend,2004-08-21,50.0,50.0,30.0,28.0,2,2,50.0,30.0
+155876,OPENWATER.OVER12.5M,Open Water to gross OVER $12.5M in opening weekend,2004-08-22,0.0,0.0,0.0,28.0,2,0,50.0,30.0

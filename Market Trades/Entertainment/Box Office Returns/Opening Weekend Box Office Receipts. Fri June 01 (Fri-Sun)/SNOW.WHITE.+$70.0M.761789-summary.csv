@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+761789,SNOW.WHITE.+$70.0M,Snow White and the Huntsman to gross OVER $70.0M in opening weekend,2012-05-31,1.0,1.0,1.0,1.0,5,5,1.0,1.0
+761789,SNOW.WHITE.+$70.0M,Snow White and the Huntsman to gross OVER $70.0M in opening weekend,2012-06-01,2.5,2.5,1.0,1.0,55,50,2.5,1.0
+761789,SNOW.WHITE.+$70.0M,Snow White and the Huntsman to gross OVER $70.0M in opening weekend,2012-06-02,3.5,3.5,3.5,3.5,56,1,3.5,1.0
+761789,SNOW.WHITE.+$70.0M,Snow White and the Huntsman to gross OVER $70.0M in opening weekend,2012-06-03,,,,3.5,56,0,3.5,1.0

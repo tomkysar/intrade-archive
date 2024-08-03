@@ -1,0 +1,4 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+750270,VOICE.McCLELLAN,Beverly McClellan to win The Voice,2011-06-27,16.0,16.0,16.0,16.0,1,1,16.0,16.0
+750270,VOICE.McCLELLAN,Beverly McClellan to win The Voice,2011-06-28,10.0,10.0,8.0,8.0,2,2,16.0,8.0
+750270,VOICE.McCLELLAN,Beverly McClellan to win The Voice,2011-06-29,6.0,6.0,6.0,6.0,3,1,16.0,6.0

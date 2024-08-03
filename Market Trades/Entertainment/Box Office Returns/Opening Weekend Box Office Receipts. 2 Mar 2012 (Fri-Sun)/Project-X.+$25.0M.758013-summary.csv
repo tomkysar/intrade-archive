@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+758013,Project-X.+$25.0M,Project X to gross OVER $25.0M in opening weekend,2012-02-27,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+758013,Project-X.+$25.0M,Project X to gross OVER $25.0M in opening weekend,2012-02-28,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+758013,Project-X.+$25.0M,Project X to gross OVER $25.0M in opening weekend,2012-02-29,10.0,10.0,10.0,10.0,2,2,10.0,10.0
+758013,Project-X.+$25.0M,Project X to gross OVER $25.0M in opening weekend,2012-03-01,0.0,0.0,0.0,10.0,2,0,10.0,10.0
+758013,Project-X.+$25.0M,Project X to gross OVER $25.0M in opening weekend,2012-03-02,35.0,35.0,20.0,30.0,16,21,35.0,10.0
+758013,Project-X.+$25.0M,Project X to gross OVER $25.0M in opening weekend,2012-03-03,0.5,0.5,0.5,0.5,16,3,35.0,0.5
+758013,Project-X.+$25.0M,Project X to gross OVER $25.0M in opening weekend,2012-03-04,0.2,0.2,0.2,0.2,16,1,35.0,0.2

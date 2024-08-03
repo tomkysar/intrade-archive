@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+199023,GOODCOMPANY.+$9M,In Good Company to gross OVER $9.0M in opening weekend,2005-01-14,50.0,50.0,35.0,43.0,11,11,50.0,35.0
+199023,GOODCOMPANY.+$9M,In Good Company to gross OVER $9.0M in opening weekend,2005-01-15,97.0,97.0,97.0,43.0,11,5,97.0,35.0
+199023,GOODCOMPANY.+$9M,In Good Company to gross OVER $9.0M in opening weekend,2005-01-16,0.0,0.0,0.0,90.0,11,0,97.0,35.0
+199023,GOODCOMPANY.+$9M,In Good Company to gross OVER $9.0M in opening weekend,2005-01-17,0.0,0.0,0.0,99.0,11,0,97.0,35.0

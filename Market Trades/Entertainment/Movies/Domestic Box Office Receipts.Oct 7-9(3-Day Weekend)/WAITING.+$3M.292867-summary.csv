@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+292867,WAITING.+$3M,Waiting to gross OVER $3.0M in opening weekend (3-days only),2005-10-07,50.0,87.0,50.0,50.0,40,42,87.0,50.0
+292867,WAITING.+$3M,Waiting to gross OVER $3.0M in opening weekend (3-days only),2005-10-08,0.0,0.0,0.0,70.0,40,0,87.0,50.0
+292867,WAITING.+$3M,Waiting to gross OVER $3.0M in opening weekend (3-days only),2005-10-09,0.0,0.0,0.0,99.0,40,0,87.0,50.0
+292867,WAITING.+$3M,Waiting to gross OVER $3.0M in opening weekend (3-days only),2005-10-10,0.0,0.0,0.0,99.0,40,0,87.0,50.0

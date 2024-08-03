@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+55529,KILLBILL.V1.WKEND+22,Kill Bill Vol 1 to gross OVER $22 M in opening weekend,2003-10-10,0.0,0.0,0.0,60.0,0,0,0.0,0.0
+55529,KILLBILL.V1.WKEND+22,Kill Bill Vol 1 to gross OVER $22 M in opening weekend,2003-10-11,0.0,0.0,0.0,60.0,0,0,0.0,0.0
+55529,KILLBILL.V1.WKEND+22,Kill Bill Vol 1 to gross OVER $22 M in opening weekend,2003-10-12,97.0,97.0,97.0,60.0,13,13,97.0,97.0
+55529,KILLBILL.V1.WKEND+22,Kill Bill Vol 1 to gross OVER $22 M in opening weekend,2003-10-13,96.0,99.0,96.0,60.0,36,23,99.0,96.0

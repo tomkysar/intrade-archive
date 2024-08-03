@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-01,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-02,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-03,60.1,70.0,60.0,60.0,24,25,70.0,60.0
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-04,50.0,61.1,35.0,35.0,66,42,70.0,35.0
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-05,69.0,69.0,45.0,45.0,72,15,70.0,35.0
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-06,50.0,75.0,50.0,75.0,75,64,75.0,35.0
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-07,75.0,95.1,75.0,95.1,70,6,95.1,35.0
+693303,EXTRACT.+$5.0M,Extract to gross OVER $5.0M in opening weekend,2009-09-08,0.0,0.0,0.0,95.1,70,0,95.1,35.0

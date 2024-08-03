@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+577260,DEM.NE.OBAMA,Barack Obama to Win,2008-02-06,50.0,50.0,50.0,0.0,5,5,50.0,50.0
+577260,DEM.NE.OBAMA,Barack Obama to Win,2008-02-07,89.0,89.0,89.0,82.0,5,5,89.0,50.0
+577260,DEM.NE.OBAMA,Barack Obama to Win,2008-02-08,94.5,94.5,94.5,94.5,0,1,94.5,50.0
+577260,DEM.NE.OBAMA,Barack Obama to Win,2008-02-08,92.0,92.0,87.0,90.0,95,95,92.0,50.0

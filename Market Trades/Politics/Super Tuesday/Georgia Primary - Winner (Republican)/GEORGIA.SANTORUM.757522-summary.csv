@@ -1,0 +1,22 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-15,20.0,20.0,20.0,20.0,2,2,20.0,20.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-16,39.9,39.9,20.0,20.0,3,2,39.9,20.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-17,21.0,40.0,21.0,40.0,31,29,40.0,20.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-18,24.0,39.0,23.0,39.0,34,4,40.0,20.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-19,42.0,50.0,25.0,27.1,47,15,50.0,20.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-20,27.1,38.0,27.1,38.0,60,14,50.0,20.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-21,33.7,39.8,24.7,39.7,156,97,50.0,20.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-22,35.0,35.0,15.0,15.0,237,91,50.0,15.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-23,17.0,21.0,15.0,21.0,252,32,50.0,15.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-24,21.3,21.5,21.3,21.4,269,17,50.0,15.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-25,21.0,21.3,15.0,15.2,254,78,50.0,15.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-26,15.9,15.9,10.0,10.0,254,10,50.0,10.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-27,10.0,16.0,7.7,16.0,273,56,50.0,7.7
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-28,16.5,19.5,9.0,9.0,293,62,50.0,7.7
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-02-29,9.0,14.3,4.4,4.4,413,142,50.0,4.4
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-03-01,10.0,10.5,10.0,10.1,425,15,50.0,4.4
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-03-02,4.3,4.7,3.0,4.0,448,40,50.0,3.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-03-03,4.5,4.5,1.0,1.0,452,30,50.0,1.0
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-03-04,1.0,1.0,0.1,0.4,472,79,50.0,0.1
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-03-05,0.4,0.6,0.3,0.6,514,163,50.0,0.1
+757522,GEORGIA.SANTORUM,Rick Santorum to win the 2012 Georgia Primary,2012-03-06,0.9,2.0,0.3,0.3,543,49,50.0,0.1

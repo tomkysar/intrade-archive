@@ -1,0 +1,6 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+746473,MUBARAK.OUT.31.MAR.11,Mubarak gone or ousted before midnight ET Mar 31 2011,2011-02-07,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+746473,MUBARAK.OUT.31.MAR.11,Mubarak gone or ousted before midnight ET Mar 31 2011,2011-02-08,30.0,30.0,30.0,30.0,10,10,30.0,30.0
+746473,MUBARAK.OUT.31.MAR.11,Mubarak gone or ousted before midnight ET Mar 31 2011,2011-02-09,29.9,36.0,29.9,36.0,24,15,36.0,29.9
+746473,MUBARAK.OUT.31.MAR.11,Mubarak gone or ousted before midnight ET Mar 31 2011,2011-02-10,49.9,95.0,38.0,60.0,468,510,95.0,29.9
+746473,MUBARAK.OUT.31.MAR.11,Mubarak gone or ousted before midnight ET Mar 31 2011,2011-02-11,60.0,99.9,45.0,99.9,574,312,99.9,29.9

@@ -1,0 +1,7 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+323056,GLOBE.COM.PARKER,Sarah Jessica Parker (The Family Stone) to WIn,2006-01-11,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+323056,GLOBE.COM.PARKER,Sarah Jessica Parker (The Family Stone) to WIn,2006-01-12,4.0,5.0,4.0,20.0,11,11,5.0,4.0
+323056,GLOBE.COM.PARKER,Sarah Jessica Parker (The Family Stone) to WIn,2006-01-13,0.0,0.0,0.0,20.0,11,0,5.0,4.0
+323056,GLOBE.COM.PARKER,Sarah Jessica Parker (The Family Stone) to WIn,2006-01-14,2.5,2.5,2.5,20.0,16,5,5.0,2.5
+323056,GLOBE.COM.PARKER,Sarah Jessica Parker (The Family Stone) to WIn,2006-01-15,2.5,2.5,2.5,2.5,21,5,5.0,2.5
+323056,GLOBE.COM.PARKER,Sarah Jessica Parker (The Family Stone) to WIn,2006-01-16,5.0,5.0,4.5,5.0,24,3,5.0,2.5

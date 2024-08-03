@@ -1,0 +1,13 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-02,30.0,35.0,30.0,30.0,11,11,35.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-03,44.7,53.0,41.0,53.0,27,16,53.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-04,60.0,60.0,50.0,50.0,91,64,60.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-05,0.0,0.0,0.0,50.0,91,0,60.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-06,0.0,0.0,0.0,50.0,91,0,60.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-07,55.0,64.5,50.0,64.5,93,3,64.5,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-08,65.0,65.0,65.0,65.0,115,22,65.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-09,70.0,80.0,60.0,60.0,140,31,80.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-10,66.0,67.0,64.0,64.0,136,19,80.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-11,0.0,0.0,0.0,64.0,136,0,80.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-12,80.0,99.0,50.0,50.0,142,13,99.0,30.0
+746370,CPAC.STRAW.PAUL(RON),Ron Paul to win the 2011 CPAC Straw Poll,2011-02-13,99.0,99.0,99.0,99.0,124,20,99.0,30.0

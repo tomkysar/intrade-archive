@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-01,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-02,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-03,35.0,35.0,35.0,35.0,10,10,35.0,35.0
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-04,35.0,45.0,20.0,45.0,32,22,45.0,20.0
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-05,60.0,70.0,60.0,70.0,72,45,70.0,20.0
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-06,99.5,99.5,99.5,99.5,69,3,99.5,20.0
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-07,99.5,99.5,99.5,99.5,67,2,99.5,20.0
+710758,DEAR.JOHN.+$20.0M,Dear John to gross OVER $20.0M in opening weekend,2010-02-08,0.0,0.0,0.0,99.5,67,0,99.5,20.0

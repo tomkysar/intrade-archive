@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+335647,DATEMOVIE.+$17.5M,Date Movie to gross OVER $17.5M in opening weekend,2006-02-17,30.0,50.0,30.0,31.0,72,73,50.0,30.0
+335647,DATEMOVIE.+$17.5M,Date Movie to gross OVER $17.5M in opening weekend,2006-02-18,50.0,75.0,50.0,75.0,73,3,75.0,30.0
+335647,DATEMOVIE.+$17.5M,Date Movie to gross OVER $17.5M in opening weekend,2006-02-19,0.0,0.0,0.0,75.0,73,0,75.0,30.0
+335647,DATEMOVIE.+$17.5M,Date Movie to gross OVER $17.5M in opening weekend,2006-02-20,95.0,99.2,95.0,97.0,79,7,99.2,30.0

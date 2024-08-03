@@ -1,0 +1,5 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+64751,G3.KASvFRTZ.DRAW,Game 3 to Draw,2003-11-13,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+64751,G3.KASvFRTZ.DRAW,Game 3 to Draw,2003-11-14,49.0,54.0,49.0,52.0,20,22,54.0,49.0
+64751,G3.KASvFRTZ.DRAW,Game 3 to Draw,2003-11-15,49.0,49.0,49.0,49.0,50,30,54.0,49.0
+64751,G3.KASvFRTZ.DRAW,Game 3 to Draw,2003-11-15,45.0,45.0,45.0,0.0,0,50,54.0,45.0

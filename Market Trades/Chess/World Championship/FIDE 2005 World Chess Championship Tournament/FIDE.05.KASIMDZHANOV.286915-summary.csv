@@ -1,0 +1,25 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-21,3.0,3.0,3.0,0.0,100,100,3.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-22,3.0,5.0,3.0,0.0,250,150,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-23,0.0,0.0,0.0,0.0,250,0,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-24,4.0,4.5,4.0,0.0,350,100,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-25,0.0,0.0,0.0,0.0,350,0,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-26,3.9,3.9,3.9,3.9,352,2,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-27,3.9,3.9,3.9,3.9,353,1,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-28,3.5,3.5,3.5,3.9,356,3,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-29,0.0,0.0,0.0,0.0,356,0,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-09-30,0.0,0.0,0.0,3.0,356,0,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-01,0.0,0.0,0.0,3.0,356,0,5.0,3.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-02,2.0,2.0,2.0,1.8,421,65,5.0,2.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-03,2.5,2.5,2.5,1.8,471,50,5.0,2.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-04,2.8,3.5,2.8,1.8,528,57,5.0,2.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-05,0.0,0.0,0.0,1.8,528,0,5.0,2.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-06,1.0,1.0,1.0,1.0,553,25,5.0,1.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-07,0.0,0.0,0.0,1.0,553,0,5.0,1.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-08,0.0,0.0,0.0,1.0,553,0,5.0,1.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-09,2.5,2.5,2.5,2.5,553,10,5.0,1.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-10,0.0,0.0,0.0,2.5,553,0,5.0,1.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-11,0.0,0.0,0.0,2.5,553,0,5.0,1.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-12,0.0,0.0,0.0,2.5,553,0,5.0,1.0
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-13,0.2,0.2,0.2,0.2,550,3,5.0,0.2
+286915,FIDE.05.KASIMDZHANOV,GM Rustam Kasimdzhanov to Win,2005-10-13,0.0,0.0,0.0,0.2,0,0,5.0,0.2

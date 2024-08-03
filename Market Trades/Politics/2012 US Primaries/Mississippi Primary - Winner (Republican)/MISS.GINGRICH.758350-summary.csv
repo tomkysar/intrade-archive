@@ -1,0 +1,10 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-05,,,,,0,0,,
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-06,,,,,0,0,,
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-07,17.5,70.0,17.5,50.0,111,141,70.0,17.5
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-08,45.0,45.9,10.0,12.5,577,540,70.0,10.0
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-09,11.1,43.0,11.1,38.0,1117,1030,70.0,10.0
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-10,38.0,60.0,30.0,36.0,1278,300,70.0,10.0
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-11,42.1,60.0,41.1,58.5,1605,612,70.0,10.0
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-12,57.0,69.7,50.1,50.1,1837,1329,70.0,10.0
+758350,MISS.GINGRICH,Newt Gingrich to win the 2012 Mississippi Primary,2012-03-13,50.1,59.9,0.1,0.1,7167,11446,70.0,0.1

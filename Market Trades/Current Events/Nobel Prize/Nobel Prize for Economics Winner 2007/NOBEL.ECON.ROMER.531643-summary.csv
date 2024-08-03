@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+531643,NOBEL.ECON.ROMER,Paul Romer to Win the 2007 Nobel Economy Prize,2007-10-08,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+531643,NOBEL.ECON.ROMER,Paul Romer to Win the 2007 Nobel Economy Prize,2007-10-09,4.9,4.9,4.9,0.0,1,1,4.9,4.9
+531643,NOBEL.ECON.ROMER,Paul Romer to Win the 2007 Nobel Economy Prize,2007-10-10,0.0,0.0,0.0,15.0,1,0,4.9,4.9
+531643,NOBEL.ECON.ROMER,Paul Romer to Win the 2007 Nobel Economy Prize,2007-10-11,0.0,0.0,0.0,15.0,1,0,4.9,4.9
+531643,NOBEL.ECON.ROMER,Paul Romer to Win the 2007 Nobel Economy Prize,2007-10-12,0.0,0.0,0.0,14.0,1,0,4.9,4.9
+531643,NOBEL.ECON.ROMER,Paul Romer to Win the 2007 Nobel Economy Prize,2007-10-13,0.0,0.0,0.0,13.5,1,0,4.9,4.9
+531643,NOBEL.ECON.ROMER,Paul Romer to Win the 2007 Nobel Economy Prize,2007-10-14,0.0,0.0,0.0,11.1,1,0,4.9,4.9

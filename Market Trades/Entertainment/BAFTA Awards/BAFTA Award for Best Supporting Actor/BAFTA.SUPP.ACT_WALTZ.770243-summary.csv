@@ -1,0 +1,18 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-01-25,,,,,0,0,,
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-01-26,,,,,0,0,,
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-01-27,,,,,0,0,,
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-01-28,19.3,19.3,19.3,19.3,3,3,19.3,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-01-29,,,,19.3,3,0,19.3,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-01-30,,,,19.3,3,0,19.3,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-01-31,,,,19.3,3,0,19.3,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-01,,,,19.3,3,0,19.3,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-02,27.5,27.5,27.5,27.5,4,1,27.5,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-03,,,,27.5,4,0,27.5,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-04,,,,27.5,4,0,27.5,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-05,,,,27.5,4,0,27.5,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-06,,,,27.5,4,0,27.5,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-07,,,,27.5,4,0,27.5,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-08,32.0,32.0,32.0,32.0,10,6,32.0,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-09,40.5,40.5,40.5,40.5,13,3,40.5,19.3
+770243,BAFTA.SUPP.ACT:WALTZ,Christoph Waltz (Django Unchained) to win the BAFTA Award for Best Supporting Actor,2013-02-10,,,,40.5,13,0,40.5,19.3

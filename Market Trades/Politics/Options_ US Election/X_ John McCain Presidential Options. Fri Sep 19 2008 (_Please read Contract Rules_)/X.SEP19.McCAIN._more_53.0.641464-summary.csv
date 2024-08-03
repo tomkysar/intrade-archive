@@ -1,0 +1,8 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+641464,X.SEP19.McCAIN.>53.0,2008.PRES.McCAIN to be HIGHER than 53.0 on Fri Sep 19 2008 (VWAP 11:30am-12:00pm ET),2008-09-12,0.0,0.0,0.0,0.0,0,0,0.0,0.0
+641464,X.SEP19.McCAIN.>53.0,2008.PRES.McCAIN to be HIGHER than 53.0 on Fri Sep 19 2008 (VWAP 11:30am-12:00pm ET),2008-09-13,40.0,40.0,40.0,0.0,20,20,40.0,40.0
+641464,X.SEP19.McCAIN.>53.0,2008.PRES.McCAIN to be HIGHER than 53.0 on Fri Sep 19 2008 (VWAP 11:30am-12:00pm ET),2008-09-14,0.0,0.0,0.0,0.0,20,0,40.0,40.0
+641464,X.SEP19.McCAIN.>53.0,2008.PRES.McCAIN to be HIGHER than 53.0 on Fri Sep 19 2008 (VWAP 11:30am-12:00pm ET),2008-09-15,40.0,45.0,40.0,0.0,42,22,45.0,40.0
+641464,X.SEP19.McCAIN.>53.0,2008.PRES.McCAIN to be HIGHER than 53.0 on Fri Sep 19 2008 (VWAP 11:30am-12:00pm ET),2008-09-16,36.0,36.0,35.0,0.0,62,40,45.0,35.0
+641464,X.SEP19.McCAIN.>53.0,2008.PRES.McCAIN to be HIGHER than 53.0 on Fri Sep 19 2008 (VWAP 11:30am-12:00pm ET),2008-09-17,0.0,0.0,0.0,0.0,62,0,45.0,35.0
+641464,X.SEP19.McCAIN.>53.0,2008.PRES.McCAIN to be HIGHER than 53.0 on Fri Sep 19 2008 (VWAP 11:30am-12:00pm ET),2008-09-18,2.0,2.0,2.0,2.0,67,5,45.0,2.0

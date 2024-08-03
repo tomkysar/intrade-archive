@@ -1,0 +1,12 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-11-29,0.0,0.0,0.0,0.1,0,0,0.0,0.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-11-30,52.0,52.0,52.0,43.0,10,10,52.0,52.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-01,0.0,0.0,0.0,0.0,10,0,52.0,52.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-02,60.0,60.0,50.0,0.0,50,40,60.0,50.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-03,70.0,77.0,70.0,0.0,65,25,77.0,50.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-04,80.0,90.0,79.9,80.0,219,155,90.0,50.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-05,92.6,96.0,91.0,92.9,241,42,96.0,50.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-06,88.5,88.5,88.5,88.5,243,2,96.0,50.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-07,97.0,98.0,97.0,0.0,366,123,98.0,50.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-08,0.0,0.0,0.0,98.0,366,0,98.0,50.0
+310649,SNOW.NYC.31DEC.>5in,Central Park NY to have ON or OVER 5 inches of snowfall by 31 Dec,2005-12-09,99.6,99.9,99.6,99.6,352,14,99.9,50.0

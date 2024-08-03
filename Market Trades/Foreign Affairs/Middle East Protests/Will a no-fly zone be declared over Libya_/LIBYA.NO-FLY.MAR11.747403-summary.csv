@@ -1,0 +1,9 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-09,40.0,59.0,40.0,59.0,3,3,59.0,40.0
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-10,37.0,38.0,37.0,38.0,5,2,59.0,37.0
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-11,40.0,44.4,26.2,38.0,22,23,59.0,26.2
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-12,36.0,39.0,26.0,34.0,66,52,59.0,26.0
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-13,36.0,44.0,25.0,30.0,134,107,59.0,25.0
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-14,34.9,36.8,31.0,31.1,157,31,59.0,25.0
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-15,30.3,31.0,8.1,10.0,244,208,59.0,8.1
+747403,LIBYA.NO-FLY.MAR11,A no-fly zone to be declared over Libyan territory before midnight ET 31 Mar 2011,2011-03-16,10.0,35.0,7.0,35.0,255,81,59.0,7.0

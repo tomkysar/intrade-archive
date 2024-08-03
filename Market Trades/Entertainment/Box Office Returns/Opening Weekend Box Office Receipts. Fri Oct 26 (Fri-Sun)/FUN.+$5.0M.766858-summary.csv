@@ -1,0 +1,11 @@
+market id,market symbol,market name,business day,session open,session high,session low,closing price,open interest,session trade volume,lifetime high,lifetime low
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-19,,,,,0,0,,
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-20,,,,,0,0,,
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-21,,,,,0,0,,
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-22,57.0,57.0,57.0,57.0,10,10,57.0,57.0
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-23,,,,57.0,10,0,57.0,57.0
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-24,,,,57.0,10,0,57.0,57.0
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-25,,,,57.0,10,0,57.0,57.0
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-26,50.0,80.0,5.0,5.0,70,100,80.0,5.0
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-27,18.0,18.0,18.0,18.0,70,15,80.0,5.0
+766858,FUN.+$5.0M,Fun Size to gross OVER $5.0M in opening weekend,2012-10-28,25.0,25.0,0.1,0.1,71,27,80.0,0.1
